@@ -2,25 +2,25 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
    xml:space="preserve"
    width="210mm"
    height="297mm"
    viewBox="0 0 744.09449 1052.3622"
-   sodipodi:docname="Hamza-CV.svg"><metadata
+   sodipodi:docname="Hamza-CV.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"><metadata
      id="metadata8"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
      id="defs6"><clipPath
    clipPathUnits="userSpaceOnUse"
    id="clipPath16"><path
@@ -179,6 +179,45 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </defs><sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -193,14 +232,16 @@
      id="namedview4"
      showgrid="false"
      units="mm"
-     inkscape:zoom="1.52"
-     inkscape:cx="365.48631"
-     inkscape:cy="884.59794"
+     inkscape:zoom="1.23"
+     inkscape:cx="369.5122"
+     inkscape:cy="290.65041"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
      inkscape:current-layer="g10"
-     showguides="false" /><g
+     showguides="false"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="mm" /><g
      id="g10"
      inkscape:groupmode="layer"
      inkscape:label="217817-P0X2NV-873"
@@ -1140,7 +1181,8 @@
      y="-736.9267"
      x="235.10539"
      id="tspan476"
-     sodipodi:role="line">Master's degree in Artificial Intelligence</tspan></text>
+     sodipodi:role="line"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana">Master's degree in Artificial Intelligence</tspan></text>
 
 
 
@@ -1155,201 +1197,63 @@
      x="235.10539"
      id="tspan484"
      sodipodi:role="line"
-     style="font-size:16.00000002px">Hamza ABBAD</tspan></text>
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Verdana;-inkscape-font-specification:'Verdana Bold'">Hamza ABBAD</tspan></text>
 
 
 
 
 </g>
-<g
-   id="g580"
-   transform="translate(0,-3.4883488e-5)"><text
-   y="-476.85944"
-   x="316.89206"
-   id="text486"
-   style="font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#808184;fill-opacity:1;fill-rule:nonzero;stroke:none"
-   transform="scale(1,-1)"><tspan
-     style="font-size:11px"
-     y="-476.85944"
-     x="316.89206"
-     id="tspan490"
-     sodipodi:role="line">Wuhan University of Technology</tspan></text>
+
+
+
+
 
 <text
-   y="-489.8443"
-   x="247.45966"
-   id="text492"
-   style="font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none"
-   transform="scale(1,-1)"><tspan
-     y="-489.8443"
-     id="tspan494"
-     sodipodi:role="line"
-     x="247.45966">2017-2018    Chinese language - HSK level 4 </tspan></text>
-
-</g>
-
-<g
-   id="g587"
-   transform="translate(0,5.482833)"><text
-   y="-433.80231"
-   x="316.39255"
-   id="text496"
-   style="font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#808184;fill-opacity:1;fill-rule:nonzero;stroke:none"
-   transform="scale(1,-1)"><tspan
-     style="font-size:11px;line-height:120.00000477%"
-     id="tspan6042"
-     y="-433.80231"
-     x="316.39255"
-     sodipodi:role="line">University of Sciences and Technology Houari</tspan><tspan
-     id="tspan3930"
-     style="font-size:11px;line-height:120.00000477%"
-     y="-420.60229"
-     x="316.39255"
-     sodipodi:role="line">Boumediene</tspan></text>
-
-<text
-   y="-446.66412"
-   x="247.45966"
-   id="text502"
-   style="font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none"
-   transform="scale(1,-1)"><tspan
-     y="-446.66412"
-     id="tspan504"
-     sodipodi:role="line"
-     x="247.45966">2015-2017    Master's degree in Artificial intelligence</tspan></text>
-
-</g>
-
-<g
-   id="g595"><text
-   y="-390.74521"
-   x="316.39255"
-   id="text506"
-   style="font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#808184;fill-opacity:1;fill-rule:nonzero;stroke:none"
-   transform="scale(1,-1)"><tspan
-     style="font-size:11px;line-height:120.00000477%"
-     y="-390.74521"
-     x="316.39255"
-     id="tspan510"
-     sodipodi:role="line">University of Sciences and Technology Houari</tspan><tspan
-     style="font-size:11px;line-height:120.00000477%"
-     id="tspan6046"
-     y="-377.5452"
-     x="316.39255"
-     sodipodi:role="line">Boumediene</tspan></text>
-
-<text
-   y="-403.7301"
-   x="247.45966"
-   id="text512"
-   style="font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none"
-   transform="scale(1,-1)"><tspan
-     y="-403.7301"
-     id="tspan514"
-     sodipodi:role="line"
-     x="247.45966">2012-2015    Bachelor's degree in Computer Science</tspan></text>
-
-</g>
-<g
-   id="g6156"
-   transform="translate(0,34.598839)"><g
-   transform="translate(11.77665,0)"
-   id="g6365"><g
-     id="g524"
-     transform="matrix(1.97438,0,0,1.97438,455.57853,473.90228)"><path
-       d="m 0,0 15.041,0 c 1.276,0 1.777,1.836 0.715,2.625 -5.651,4.2 -18.318,11.966 -34.699,11.966 l -15.042,0 C -17.604,14.591 -4.938,6.825 0.714,2.625 1.776,1.836 1.277,0 0,0"
-       style="fill:#00b2e5;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="path526"
-       inkscape:connector-curvature="0" /></g><path
-     inkscape:connector-curvature="0"
-     id="path530"
-     style="fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none"
-     d="m 350.50459,473.90229 9.03476,0 20.66584,0 9.03279,0 66.34114,0 c 2.52128,0 3.5065,3.62496 1.40971,5.18275 -11.16117,8.29239 -36.16867,23.62543 -68.51099,23.62543 l -152.6946,0 0,-28.80818 114.72135,0 z" /></g><text
-   y="-482.90845"
-   x="261.81528"
-   id="text532"
-   style="font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-   transform="scale(1,-1)"><tspan
-     y="-482.90845"
-     x="261.81528"
-     id="tspan534"
-     sodipodi:role="line">EDUCATION</tspan></text>
-
-
-
-
-</g><g
-   id="g4623"
-   transform="translate(0,61.657789)"><g
-   transform="matrix(1.97438,0,0,1.97438,-184.18055,-50.707859)"
-   id="g562"><g
-     clip-path="url(#clipPath566)"
-     id="g564"><g
-       transform="translate(329.9951,162.5166)"
-       id="g570"><path
-         inkscape:connector-curvature="0"
-         id="path572"
-         style="fill:#00b2e5;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         d="m 0,0 15.041,0 c 1.276,0 1.777,1.837 0.715,2.625 -5.651,4.2 -18.318,11.967 -34.699,11.967 l -15.042,0 C -17.604,14.592 -4.938,6.825 0.714,2.625 1.776,1.837 1.277,0 0,0" /></g><g
-       transform="translate(276.7764,162.5166)"
-       id="g574"><path
-         inkscape:connector-curvature="0"
-         id="path576"
-         style="fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         d="m 0,0 4.576,0 10.467,0 4.575,0 33.601,0 c 1.277,0 1.776,1.837 0.714,2.625 -5.653,4.2 -18.319,11.967 -34.7,11.967 l -77.338,0 L -58.105,0 0,0 Z" /></g></g></g><text
-   y="-279.2048"
-   x="215.57504"
-   id="text578"
-   style="font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-   transform="scale(1,-1)"><tspan
-     id="tspan580"
-     sodipodi:role="line"
-     x="261.81528 270.38303 279.8407 289.35876 297.92651 307.21829 311.32117 319.88892 330.64386 340.46356">EXPERIENCE</tspan></text>
-
-
-
-
-</g><text
    transform="scale(1,-1)"
-   style="font-variant:normal;font-weight:normal;font-stretch:normal;line-height:120.00000477%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#808184;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   style="font-variant:normal;font-weight:normal;font-stretch:normal;line-height:120%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#808184;fill-opacity:1;fill-rule:nonzero;stroke:none"
    id="text582"
    x="247.37727"
-   y="-635.39502"><tspan
+   y="-636.8775"><tspan
      sodipodi:role="line"
      x="247.37727"
-     y="-635.39502"
-     id="tspan5782"
-     style="font-size:11px;line-height:120.00000477%">I am a 24 years old man from Algiers, Algeria. I got a Master's</tspan><tspan
+     y="-636.8775"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:120%;font-family:Verdana;-inkscape-font-specification:Verdana"
+     id="tspan615">Ph.D. student in Wuhan University of Technology</tspan><tspan
      sodipodi:role="line"
      x="247.37727"
-     y="-620.995"
-     id="tspan5937"
-     style="font-size:11px;line-height:120.00000477%">degree in Artificial Intelligence from the University of Sciences and</tspan><tspan
+     y="-622.47748"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:120%;font-family:Verdana;-inkscape-font-specification:Verdana"
+     id="tspan66915">- WHUT (武汉理工大学). Continuing my study remotely from</tspan><tspan
      sodipodi:role="line"
      x="247.37727"
-     y="-606.59503"
-     style="font-size:11px;line-height:120.00000477%"
-     id="tspan3912">Technology Houari Boumediene (USTHB).</tspan><tspan
+     y="-607.95172"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:120%;font-family:Verdana;-inkscape-font-specification:Verdana"
+     id="tspan71377">Algeria since January 2020 due to the COVID-19 entrance</tspan><tspan
      sodipodi:role="line"
      x="247.37727"
-     y="-592.19501"
-     style="font-size:11px;line-height:120.00000477%"
-     id="tspan3916">I like learning and using new technologies, especially in the fields</tspan><tspan
+     y="-593.5517"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:120%;font-family:Verdana;-inkscape-font-specification:Verdana"
+     id="tspan71379">restrictions imposed by the Chinese government on the </tspan><tspan
      sodipodi:role="line"
      x="247.37727"
-     y="-577.79504"
-     style="font-size:11px;line-height:120.00000477%"
-     id="tspan3924">of machine learning and artificial intelligence. I am self-motivated</tspan><tspan
+     y="-579.15173"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:120%;font-family:Verdana;-inkscape-font-specification:Verdana"
+     id="tspan74203">international students.</tspan><tspan
      sodipodi:role="line"
      x="247.37727"
-     y="-563.39502"
-     style="font-size:11px;line-height:120.00000477%"
-     id="tspan611">and I like doing research and sharing my knowledge and my</tspan><tspan
+     y="-564.75171"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:120%;font-family:Verdana;-inkscape-font-specification:Verdana"
+     id="tspan4790">Currently I am envolved in Web 3.0 and Decentralized App</tspan><tspan
      sodipodi:role="line"
      x="247.37727"
-     y="-548.995"
-     style="font-size:11px;line-height:120.00000477%"
-     id="tspan615">experience.</tspan></text>
+     y="-550.35175"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:120%;font-family:Verdana;-inkscape-font-specification:Verdana"
+     id="tspan5706">(DApp) devlopement using Flutter combined with some</tspan><tspan
+     sodipodi:role="line"
+     x="247.37727"
+     y="-535.95172"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:120%;font-family:Verdana;-inkscape-font-specification:Verdana"
+     id="tspan8488">Blockchains and other Distributed Ledger Technologies (DLT)</tspan></text>
 
 
 
@@ -1359,11 +1263,12 @@
    style="font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none"
    id="text610"
    x="250.03862"
-   y="-643.95801"><tspan
+   y="-611.37653"><tspan
      x="90.992249 100.81049 111.18076 121.72453 130.14293 139.90236 149.51088"
      y="-611.37653"
      sodipodi:role="line"
-     id="tspan614">CONTACT</tspan></text>
+     id="tspan614"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana">CONTACT</tspan></text>
 
 
 
@@ -1373,64 +1278,22 @@
    style="font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none"
    id="text670"
    x="34.119549"
-   y="-1405.3586"><tspan
+   y="-1318.6165 -1318.6165"><tspan
      x="34.119549 34.119549 61.706863 90.876053 103.52995 128.55853"
-     y="-1405.3586 -1405.3586"
+     y="-1318.6165 -1318.6165"
      sodipodi:role="line"
      id="tspan6296"> </tspan></text>
 
 
 
 
+
+
+
+
+
 <text
-   xml:space="preserve"
-   style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-   x="108"
-   y="-580"
-   id="text5342"
-   transform="scale(1,-1)"><tspan
-     sodipodi:role="line"
-     id="tspan5344"
-     x="108"
-     y="-580"> </tspan></text>
-
-
-
-
-<g
-   id="g6103"
-   transform="translate(0,27.961119)"><g
-   transform="matrix(1.97438,0,0,1.97438,-184.18055,-84.496417)"
-   id="g594"><g
-     clip-path="url(#clipPath598)"
-     id="g596"><g
-       transform="translate(329.9951,358.4263)"
-       id="g602"><path
-         inkscape:connector-curvature="0"
-         id="path604"
-         style="fill:#00b2e5;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         d="m 0,0 15.041,0 c 1.276,0 1.777,1.837 0.715,2.625 -5.651,4.201 -18.318,11.966 -34.699,11.966 l -15.042,0 C -17.604,14.591 -4.938,6.826 0.714,2.625 1.776,1.837 1.277,0 0,0" /></g><g
-       transform="translate(276.7764,358.4263)"
-       id="g606"><path
-         inkscape:connector-curvature="0"
-         id="path608"
-         style="fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         d="m 0,0 4.576,0 10.467,0 4.575,0 33.601,0 c 1.277,0 1.776,1.837 0.714,2.625 -5.653,4.201 -18.319,11.966 -34.7,11.966 l -77.338,0 L -58.105,0 0,0 Z" /></g></g></g><text
-   transform="scale(1,-1)"
-   style="font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-   id="text6330"
-   x="261.81528"
-   y="-632.21545"><tspan
-     sodipodi:role="line"
-     id="tspan6332"
-     x="261.81528"
-     y="-632.21545">ABOUT ME</tspan></text>
-
-
-
-
-</g><text
-   y="-453.3092"
+   y="-437.51974"
    x="85.041908"
    id="text3843"
    style="font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -1438,77 +1301,105 @@
      id="tspan3845"
      sodipodi:role="line"
      x="85.041908"
-     y="-453.3092">TOP SKILLS</tspan></text>
+     y="-437.51974"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana">TOP SKILLS</tspan></text>
 
 
 
 
-<g
-   id="g944"><g
-     id="g905"><g
-   id="g3889"
-   transform="translate(-18.274112,9.0740191)"><g
-     transform="matrix(1.97438,0,0,1.97438,67.836553,555.57191)"
-     id="g632"><path
-       inkscape:connector-curvature="0"
-       id="path634"
-       style="fill:#00b2e5;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 0,0 c 0,3.233 -2.622,5.854 -5.855,5.854 -3.234,0 -5.855,-2.621 -5.855,-5.854 0,-3.233 2.621,-5.855 5.855,-5.855 C -2.622,-5.855 0,-3.233 0,0" /></g><g
-     transform="matrix(1.97438,0,0,1.97438,61.979949,551.06697)"
-     id="g636"><path
-       inkscape:connector-curvature="0"
-       id="path638"
-       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 0,0 c -0.009,-0.02 -0.247,-0.47 -0.825,-0.624 -0.584,-0.155 -1.303,0.041 -2.139,0.584 -1.475,0.958 -2.541,2.286 -2.783,3.464 -0.118,0.581 -0.032,1.094 0.257,1.524 l 0.035,0.056 c 0.105,0.163 0.163,0.235 0.248,0.235 h 0.004 c 0.052,-0.013 0.198,-0.13 0.314,-0.255 L -3.954,4.097 C -3.896,4.042 -3.887,3.938 -3.936,3.872 L -4.198,3.523 v 0 C -4.352,3.318 -4.379,2.993 -4.265,2.768 -4.246,2.729 -3.767,1.801 -2.725,1.121 l 0.037,-0.025 c 0.156,-0.102 0.351,-0.231 0.605,-0.194 0.158,0.023 0.373,0.195 0.456,0.268 l 0.213,0.184 C -1.355,1.405 -1.25,1.403 -1.193,1.35 L -0.051,0.281 C 0.016,0.218 0.042,0.082 0,0 M 0.216,0.567 -0.926,1.636 C -1.129,1.825 -1.463,1.83 -1.67,1.65 L -1.882,1.466 C -1.978,1.383 -2.102,1.299 -2.137,1.289 -2.242,1.276 -2.333,1.33 -2.474,1.422 l -0.038,0.026 c -0.95,0.621 -1.4,1.488 -1.405,1.497 -0.047,0.093 -0.032,0.259 0.031,0.344 l 0.263,0.349 c 0.167,0.224 0.14,0.55 -0.063,0.742 L -4.611,5.259 C -4.736,5.394 -4.977,5.622 -5.183,5.628 -5.5,5.646 -5.666,5.396 -5.781,5.218 L -5.815,5.166 c -0.35,-0.522 -0.455,-1.134 -0.314,-1.82 0.262,-1.277 1.393,-2.7 2.952,-3.713 0.715,-0.466 1.367,-0.699 1.946,-0.699 0.179,0 0.351,0.022 0.516,0.067 0.747,0.203 1.053,0.798 1.065,0.823 0.118,0.236 0.058,0.563 -0.134,0.743" /></g></g><text
-   transform="scale(1,-1)"
-   style="font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#808184;fill-opacity:1;fill-rule:nonzero;stroke:none"
-   id="text660"
-   x="57.125103"
-   y="-567.76874"><tspan
-     sodipodi:role="line"
-     x="57.125103"
-     y="-567.76874"
-     id="tspan5332"
-     style="line-height:120.00000477%">+213 551 788 241</tspan><tspan
-     sodipodi:role="line"
-     x="57.125103"
-     y="-553.36871"
-     id="tspan5336"
-     style="line-height:120.00000477%">+86 139 7165 4983</tspan></text>
-
-</g><g
-     transform="translate(-15.025381,-3.4494629)"
-     id="g5586"><g
-   id="g3883"
-   transform="translate(-3.248731,13.401021)"><g
-     transform="matrix(1.97438,0,0,1.97438,67.836553,581.94647)"
-     id="g624"><path
-       inkscape:connector-curvature="0"
-       id="path626"
-       style="fill:#00b2e5;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 0,0 c 0,3.233 -2.622,5.855 -5.855,5.855 -3.234,0 -5.855,-2.622 -5.855,-5.855 0,-3.233 2.621,-5.855 5.855,-5.855 C -2.622,-5.855 0,-3.233 0,0" /></g><g
-     transform="matrix(1.97438,0,0,1.97438,50.72855,577.78369)"
-     id="g628"><path
-       inkscape:connector-curvature="0"
-       id="path630"
-       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 0,0 c -0.041,0 -0.08,0.006 -0.117,0.015 l 2.03,1.86 0.444,-0.407 C 2.481,1.354 2.645,1.297 2.809,1.297 c 0.164,0 0.328,0.057 0.452,0.171 L 3.706,1.875 5.735,0.015 C 5.699,0.006 5.659,0 5.621,0 Z m -0.406,0.214 c -0.053,0.079 -0.085,0.174 -0.085,0.275 v 3.237 c 0,0.102 0.032,0.196 0.084,0.274 L 1.659,2.107 Z M 5.621,4.217 C 5.66,4.217 5.699,4.21 5.737,4.201 L 3.029,1.721 C 2.91,1.61 2.708,1.611 2.588,1.721 l -2.707,2.48 C -0.081,4.21 -0.041,4.217 0,4.217 Z M 3.959,2.107 6.025,4 C 6.079,3.922 6.109,3.828 6.109,3.726 V 0.489 C 6.109,0.388 6.079,0.293 6.024,0.214 Z M 5.621,4.559 H 0 c -0.459,0 -0.833,-0.373 -0.833,-0.833 V 0.489 c 0,-0.459 0.374,-0.831 0.833,-0.831 h 5.621 c 0.458,0 0.83,0.372 0.83,0.831 v 3.237 c 0,0.46 -0.372,0.833 -0.83,0.833" /></g></g><text
-   style="font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#808184;fill-opacity:1;fill-rule:nonzero;stroke:none"
-   id="text660-2"
-   x="71.480247"
-   y="-592.10699"
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+   x="102.07895"
+   y="-567.85229"
+   id="text5342"
    transform="scale(1,-1)"><tspan
      sodipodi:role="line"
-     x="71.480247"
-     y="-592.10699"
-     id="tspan5336-3">hamza.abbad@gmail.com</tspan></text>
-
-
-
-
-</g><g
-     transform="translate(-15.025381,-3.4494629)"
-     id="g5605"><g
+     id="tspan5344"
+     x="102.07895"
+     y="-567.85229"> </tspan></text><g
+   id="g115641"><g
+     id="g113827"
+     transform="translate(-5.9210526,-2.3429064)"><g
+       id="g3889"
+       transform="translate(-18.274112,9.0740191)"><g
+         transform="matrix(1.97438,0,0,1.97438,67.836553,555.57191)"
+         id="g632"><path
+           inkscape:connector-curvature="0"
+           id="path634"
+           style="fill:#00b2e5;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 0,0 c 0,3.233 -2.622,5.854 -5.855,5.854 -3.234,0 -5.855,-2.621 -5.855,-5.854 0,-3.233 2.621,-5.855 5.855,-5.855 C -2.622,-5.855 0,-3.233 0,0" /></g><g
+         transform="matrix(1.97438,0,0,1.97438,61.979949,551.06697)"
+         id="g636"><path
+           inkscape:connector-curvature="0"
+           id="path638"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 0,0 c -0.009,-0.02 -0.247,-0.47 -0.825,-0.624 -0.584,-0.155 -1.303,0.041 -2.139,0.584 -1.475,0.958 -2.541,2.286 -2.783,3.464 -0.118,0.581 -0.032,1.094 0.257,1.524 l 0.035,0.056 c 0.105,0.163 0.163,0.235 0.248,0.235 h 0.004 c 0.052,-0.013 0.198,-0.13 0.314,-0.255 L -3.954,4.097 C -3.896,4.042 -3.887,3.938 -3.936,3.872 L -4.198,3.523 v 0 C -4.352,3.318 -4.379,2.993 -4.265,2.768 -4.246,2.729 -3.767,1.801 -2.725,1.121 l 0.037,-0.025 c 0.156,-0.102 0.351,-0.231 0.605,-0.194 0.158,0.023 0.373,0.195 0.456,0.268 l 0.213,0.184 C -1.355,1.405 -1.25,1.403 -1.193,1.35 L -0.051,0.281 C 0.016,0.218 0.042,0.082 0,0 M 0.216,0.567 -0.926,1.636 C -1.129,1.825 -1.463,1.83 -1.67,1.65 L -1.882,1.466 C -1.978,1.383 -2.102,1.299 -2.137,1.289 -2.242,1.276 -2.333,1.33 -2.474,1.422 l -0.038,0.026 c -0.95,0.621 -1.4,1.488 -1.405,1.497 -0.047,0.093 -0.032,0.259 0.031,0.344 l 0.263,0.349 c 0.167,0.224 0.14,0.55 -0.063,0.742 L -4.611,5.259 C -4.736,5.394 -4.977,5.622 -5.183,5.628 -5.5,5.646 -5.666,5.396 -5.781,5.218 L -5.815,5.166 c -0.35,-0.522 -0.455,-1.134 -0.314,-1.82 0.262,-1.277 1.393,-2.7 2.952,-3.713 0.715,-0.466 1.367,-0.699 1.946,-0.699 0.179,0 0.351,0.022 0.516,0.067 0.747,0.203 1.053,0.798 1.065,0.823 0.118,0.236 0.058,0.563 -0.134,0.743" /></g></g><text
+       transform="scale(1,-1)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#808184;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text660"
+       x="57.125103"
+       y="-567.48267"><tspan
+         sodipodi:role="line"
+         x="57.125103"
+         y="-567.48267"
+         id="tspan5332"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:120%;font-family:Verdana;-inkscape-font-specification:Verdana">+213 07 93 94 78 92</tspan><tspan
+         sodipodi:role="line"
+         x="57.125103"
+         y="-553.08264"
+         id="tspan5336"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:120%;font-family:Verdana;-inkscape-font-specification:Verdana">+86 139 7165 4983</tspan></text></g><g
+     id="g115221"
+     transform="translate(-5.9210526)"><g
+       id="g3883"
+       transform="translate(-18.274112,9.9515473)"><g
+         transform="matrix(1.97438,0,0,1.97438,67.836553,581.94647)"
+         id="g624"><path
+           inkscape:connector-curvature="0"
+           id="path626"
+           style="fill:#00b2e5;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 0,0 c 0,3.233 -2.622,5.855 -5.855,5.855 -3.234,0 -5.855,-2.622 -5.855,-5.855 0,-3.233 2.621,-5.855 5.855,-5.855 C -2.622,-5.855 0,-3.233 0,0" /></g><g
+         transform="matrix(1.97438,0,0,1.97438,50.72855,577.78369)"
+         id="g628"><path
+           inkscape:connector-curvature="0"
+           id="path630"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 0,0 c -0.041,0 -0.08,0.006 -0.117,0.015 l 2.03,1.86 0.444,-0.407 C 2.481,1.354 2.645,1.297 2.809,1.297 c 0.164,0 0.328,0.057 0.452,0.171 L 3.706,1.875 5.735,0.015 C 5.699,0.006 5.659,0 5.621,0 Z m -0.406,0.214 c -0.053,0.079 -0.085,0.174 -0.085,0.275 v 3.237 c 0,0.102 0.032,0.196 0.084,0.274 L 1.659,2.107 Z M 5.621,4.217 C 5.66,4.217 5.699,4.21 5.737,4.201 L 3.029,1.721 C 2.91,1.61 2.708,1.611 2.588,1.721 l -2.707,2.48 C -0.081,4.21 -0.041,4.217 0,4.217 Z M 3.959,2.107 6.025,4 C 6.079,3.922 6.109,3.828 6.109,3.726 V 0.489 C 6.109,0.388 6.079,0.293 6.024,0.214 Z M 5.621,4.559 H 0 c -0.459,0 -0.833,-0.373 -0.833,-0.833 V 0.489 c 0,-0.459 0.374,-0.831 0.833,-0.831 h 5.621 c 0.458,0 0.83,0.372 0.83,0.831 v 3.237 c 0,0.46 -0.372,0.833 -0.83,0.833" /></g></g><text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#808184;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text660-2"
+       x="56.454868"
+       y="-588.57867"
+       transform="scale(1,-1)"><tspan
+         sodipodi:role="line"
+         x="56.454868"
+         y="-588.57867"
+         id="tspan5336-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana">hamza.abbad@gmail.com</tspan></text></g><g
+     id="g113839"
+     transform="translate(-5.9210526,-6.1236072)"><text
+       transform="scale(1,-1)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#808184;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text111855"
+       x="57.125103"
+       y="-541.27252"><tspan
+         sodipodi:role="line"
+         x="57.125103"
+         y="-541.27252"
+         id="tspan111853"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:120%;font-family:Verdana;-inkscape-font-specification:Verdana">Wuhan, Hubei, China</tspan><tspan
+         sodipodi:role="line"
+         x="57.125103"
+         y="-526.8725"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:120%;font-family:Verdana;-inkscape-font-specification:Verdana"
+         id="tspan112965">Birkhadem, Algiers, Algeria</tspan><tspan
+         sodipodi:role="line"
+         x="57.125103"
+         y="-519.51111"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:120%;font-family:Verdana;-inkscape-font-specification:Verdana"
+         id="tspan112079" /></text><g
+       transform="translate(-15.025381,-3.4494629)"
+       id="g5605"><g
    id="g3939"
    transform="translate(-3.2487309,11.642994)"><path
      d="m 67.836553,529.19834 c 0,6.38514 -5.176824,11.55999 -11.559995,11.55999 -6.385145,0 -11.559995,-5.17485 -11.559995,-11.55999 0,-6.38317 5.17485,-11.55999 11.559995,-11.55999 6.383171,0 11.559995,5.17682 11.559995,11.55999"
@@ -1518,29 +1409,31 @@
      d="m 56.273794,529.62935 c -1.141192,0 -2.071125,0.92796 -2.071125,2.0731 0,1.14119 0.929933,2.07112 2.071125,2.07112 1.14514,0 2.075073,-0.92993 2.075073,-2.07112 0,-1.14514 -0.929933,-2.0731 -2.075073,-2.0731 m 0,4.88264 c -1.549888,0 -2.809543,-1.26163 -2.809543,-2.80954 0,-1.54989 1.259655,-2.81152 2.809543,-2.81152 1.549888,0 2.811517,1.26163 2.811517,2.81152 0,1.54791 -1.261629,2.80954 -2.811517,2.80954 m 0.575532,-11.89426 c -0.31985,-0.43831 -0.827265,-0.43831 -1.151064,0 -0.04146,0.0592 -4.294276,5.88958 -4.294276,8.63199 0,2.68516 2.185639,4.86882 4.868821,4.86882 2.687131,0 4.87277,-2.18366 4.87277,-4.86882 0,-2.74044 -4.252815,-8.57276 -4.296251,-8.63199 m -0.576519,14.23923 c -3.089905,0 -5.605265,-2.51734 -5.605265,-5.60724 0,-2.97934 4.256763,-8.82153 4.438406,-9.06635 0.300106,-0.41067 0.724598,-0.64168 1.166859,-0.64168 0.44621,0 0.872676,0.23101 1.170807,0.64168 0.183618,0.24482 4.440381,6.08701 4.440381,9.06635 0,3.0899 -2.51536,5.60724 -5.611188,5.60724"
      style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
      id="path650"
-     inkscape:connector-curvature="0" /></g><text
+     inkscape:connector-curvature="0" /></g>
+
+
+
+
+<text
    style="font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#808184;fill-opacity:1;fill-rule:nonzero;stroke:none"
-   id="text660-1-0"
-   x="71.953003"
-   y="-537.11316"
+   id="text7786"
+   x="71.320312"
+   y="-529.71191"
    transform="scale(1,-1)"><tspan
      sodipodi:role="line"
-     x="71.953003"
-     y="-537.11316"
-     id="tspan5336-9-0">Wuchang, Wuhan, Hubei, China</tspan></text>
-
-
-
-
-</g><g
-     transform="translate(-15.025381,-3.4494629)"
-     id="g5612"><a
-       id="a5569"
-       transform="translate(0,-0.99033969)"><a
-         id="a5573"
-         xlink:href="https://github.com/Hamza5"
-         xlink:title="My GitHub profile"><text
-   style="font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#808184;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     x="71.320312"
+     y="-529.71191"
+     id="tspan7784"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana" /></text></g></g><g
+     transform="translate(-20.946434,-13.151319)"
+     id="g5612"><g
+       id="g113846"><a
+         id="a5569"
+         transform="translate(0,-0.36267852)"><a
+           id="a5573"
+           xlink:href="https://github.com/Hamza5"
+           xlink:title="My GitHub profile"><text
+   style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#808184;fill-opacity:1;fill-rule:nonzero;stroke:none"
    id="text660-1"
    x="71.743553"
    y="-511.57025"
@@ -1548,37 +1441,39 @@
      sodipodi:role="line"
      x="71.743553"
      y="-511.57025"
-     id="tspan5336-9">github.com/Hamza5</tspan></text>
+     id="tspan5336-9"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:monospace;-inkscape-font-specification:monospace">github.com/Hamza5</tspan></text>
 
 
 
 
 </a></a><path
-       id="path6286"
-       d="m 52.992477,525.14728 c -6.363129,0 -11.524334,-5.16121 -11.524334,-11.52434 0,-5.0905 3.322968,-9.40329 7.84786,-10.95872 0.565611,-0.0707 0.777715,0.2828 0.777715,0.56561 0,0.28281 0,0.98982 0,1.97964 -3.181564,-0.70701 -3.888579,1.55543 -3.888579,1.55543 -0.49491,1.34333 -1.272626,1.69684 -1.272626,1.69684 -1.060521,0.70701 0.0707,0.70701 0.0707,0.70701 1.131223,-0.0707 1.767536,-1.20192 1.767536,-1.20192 1.060521,-1.76754 2.686654,-1.27263 3.322967,-0.98982 0.0707,0.77771 0.424209,1.27262 0.707015,1.55543 -2.545252,0.2828 -5.231907,1.27262 -5.231907,5.72681 0,1.27263 0.424209,2.26245 1.201925,3.11087 -0.141403,0.2828 -0.49491,1.48473 0.141403,3.04016 0,0 0.98982,0.28281 3.181564,-1.20192 0.919119,0.2828 1.908939,0.3535 2.898759,0.3535 0.98982,0 1.979641,-0.1414 2.898759,-0.3535 2.191745,1.48473 3.181565,1.20192 3.181565,1.20192 0.636313,-1.55543 0.212104,-2.75736 0.141403,-3.04016 0.707014,-0.77772 1.201924,-1.83824 1.201924,-3.11087 0,-4.45419 -2.686654,-5.3733 -5.231906,-5.65611 0.424209,-0.35351 0.777716,-1.06052 0.777716,-2.12104 0,-1.55543 0,-2.75736 0,-3.18157 0,-0.2828 0.212104,-0.63631 0.777716,-0.56561 4.595593,1.55543 7.847859,5.86822 7.847859,10.95872 -0.0707,6.29243 -5.231906,11.45364 -11.595036,11.45364 z"
-       inkscape:connector-curvature="0"
-       style="clip-rule:evenodd;fill:#00b2e5;fill-opacity:1;fill-rule:evenodd" /></g><g
-     transform="translate(-15.025381,-3.4494629)"
+         id="path6286"
+         d="m 52.992477,525.14728 c -6.363129,0 -11.524334,-5.16121 -11.524334,-11.52434 0,-5.0905 3.322968,-9.40329 7.84786,-10.95872 0.565611,-0.0707 0.777715,0.2828 0.777715,0.56561 0,0.28281 0,0.98982 0,1.97964 -3.181564,-0.70701 -3.888579,1.55543 -3.888579,1.55543 -0.49491,1.34333 -1.272626,1.69684 -1.272626,1.69684 -1.060521,0.70701 0.0707,0.70701 0.0707,0.70701 1.131223,-0.0707 1.767536,-1.20192 1.767536,-1.20192 1.060521,-1.76754 2.686654,-1.27263 3.322967,-0.98982 0.0707,0.77771 0.424209,1.27262 0.707015,1.55543 -2.545252,0.2828 -5.231907,1.27262 -5.231907,5.72681 0,1.27263 0.424209,2.26245 1.201925,3.11087 -0.141403,0.2828 -0.49491,1.48473 0.141403,3.04016 0,0 0.98982,0.28281 3.181564,-1.20192 0.919119,0.2828 1.908939,0.3535 2.898759,0.3535 0.98982,0 1.979641,-0.1414 2.898759,-0.3535 2.191745,1.48473 3.181565,1.20192 3.181565,1.20192 0.636313,-1.55543 0.212104,-2.75736 0.141403,-3.04016 0.707014,-0.77772 1.201924,-1.83824 1.201924,-3.11087 0,-4.45419 -2.686654,-5.3733 -5.231906,-5.65611 0.424209,-0.35351 0.777716,-1.06052 0.777716,-2.12104 0,-1.55543 0,-2.75736 0,-3.18157 0,-0.2828 0.212104,-0.63631 0.777716,-0.56561 4.595593,1.55543 7.847859,5.86822 7.847859,10.95872 -0.0707,6.29243 -5.231906,11.45364 -11.595036,11.45364 z"
+         inkscape:connector-curvature="0"
+         style="clip-rule:evenodd;fill:#00b2e5;fill-opacity:1;fill-rule:evenodd" /></g></g><g
+     transform="translate(-20.946434,-15.291678)"
      id="g5619"><g
-       id="g5581"
-       transform="translate(0,2.1611097e-5)"><path
-         d="m 62.877256,498.52097 h -19.70388 c -0.940501,0 -1.705149,-0.74633 -1.705149,-1.66701 v -19.78469 c 0,-0.92069 0.764648,-1.66827 1.705149,-1.66827 h 19.70388 c 0.942524,0 1.710171,0.74758 1.710171,1.66827 v 19.78469 c 0,0.92068 -0.767647,1.66701 -1.710171,1.66701"
-         style="fill:#00b2e5;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="path5482"
-         inkscape:connector-curvature="0" /><path
-         d="m 45.734276,494.526 c 1.097049,0 1.987348,-0.89108 1.987348,-1.98857 0,-1.09781 -0.890299,-1.98864 -1.987348,-1.98864 -1.101307,0 -1.989377,0.89083 -1.989377,1.98864 0,1.09749 0.88807,1.98857 1.989377,1.98857 m -1.717191,-5.48469 h 3.432365 v -11.03316 h -3.432365 v 11.03316"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="path5484"
-         inkscape:connector-curvature="0" /><path
-         d="m 49.600635,489.04131 h 3.287146 v -1.5082 h 0.04688 c 0.457326,0.86726 1.576204,1.78191 3.244503,1.78191 3.471977,0 4.113749,-2.28445 4.113749,-5.25594 v -6.05093 h -3.428884 v 5.36529 c 0,1.27969 -0.02209,2.92564 -1.781651,2.92564 -1.784412,0 -2.05665,-1.39458 -2.05665,-2.8338 v -5.45713 h -3.425095 v 11.03316"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="path5486"
-         inkscape:connector-curvature="0" /></g><a
-       id="a5577"
-       xlink:href="https://www.linkedin.com/in/hamza-abbad/"
-       xlink:title="My LinkedIn profile"
-       transform="translate(-0.35905564,-2.8413031)"><text
-   style="font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#808184;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="g113855"><g
+         id="g5581"
+         transform="translate(0,2.1611097e-5)"><path
+           d="m 62.877256,498.52097 h -19.70388 c -0.940501,0 -1.705149,-0.74633 -1.705149,-1.66701 v -19.78469 c 0,-0.92069 0.764648,-1.66827 1.705149,-1.66827 h 19.70388 c 0.942524,0 1.710171,0.74758 1.710171,1.66827 v 19.78469 c 0,0.92068 -0.767647,1.66701 -1.710171,1.66701"
+           style="fill:#00b2e5;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path5482"
+           inkscape:connector-curvature="0" /><path
+           d="m 45.734276,494.526 c 1.097049,0 1.987348,-0.89108 1.987348,-1.98857 0,-1.09781 -0.890299,-1.98864 -1.987348,-1.98864 -1.101307,0 -1.989377,0.89083 -1.989377,1.98864 0,1.09749 0.88807,1.98857 1.989377,1.98857 m -1.717191,-5.48469 h 3.432365 v -11.03316 h -3.432365 v 11.03316"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path5484"
+           inkscape:connector-curvature="0" /><path
+           d="m 49.600635,489.04131 h 3.287146 v -1.5082 h 0.04688 c 0.457326,0.86726 1.576204,1.78191 3.244503,1.78191 3.471977,0 4.113749,-2.28445 4.113749,-5.25594 v -6.05093 h -3.428884 v 5.36529 c 0,1.27969 -0.02209,2.92564 -1.781651,2.92564 -1.784412,0 -2.05665,-1.39458 -2.05665,-2.8338 v -5.45713 h -3.425095 v 11.03316"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path5486"
+           inkscape:connector-curvature="0" /></g><a
+         id="a5577"
+         xlink:href="https://www.linkedin.com/in/hamza-abbad/"
+         xlink:title="My LinkedIn profile"
+         transform="translate(-0.35905564,-1.8957744)"><text
+   style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#808184;fill-opacity:1;fill-rule:nonzero;stroke:none"
    id="text5565"
    x="71.743553"
    y="-485.58041"
@@ -1586,79 +1481,52 @@
      sodipodi:role="line"
      x="71.743553"
      y="-485.58041"
-     id="tspan5567">linkedin.com/in/hamza-abbad/</tspan></text>
+     id="tspan5567"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:monospace;-inkscape-font-specification:monospace">linkedin.com/in/hamza-abbad/</tspan></text>
 
 
 
 
-</a></g></g><g
-   id="g4153"><g
-     id="g3986"><text
-   transform="scale(1,-1)"
-   style="font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none"
-   id="text674"
-   x="20.914827"
-   y="-405.49084"><tspan
-     sodipodi:role="line"
-     id="tspan684"
-     x="20.914827"
-     y="-405.49084"
-     style="line-height:120.00000477%">Machine Learning</tspan><tspan
-     sodipodi:role="line"
-     x="20.914827"
-     y="-391.09085"
-     id="tspan3791"
-     style="line-height:120.00000477%">(TensorFlow, PyTorch)</tspan></text>
+</a></g></g></g><g
+   id="g3986"
+   transform="translate(0,-130.19184)">
 
 
 
 
 <g
-   id="g5697"
-   transform="translate(12.588838,255.71454)"><path
-     sodipodi:nodetypes="ccsscssc"
-     inkscape:connector-curvature="0"
-     id="path6372"
-     style="fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none"
-     d="m 119.74585,145.99175 0,0 c 0,-1.70586 1.32481,-3.08596 2.95762,-3.08596 l 91.44003,0 c 0.95165,0 1.84407,0.47978 2.40085,1.28335 1.40773,2.04151 0.0118,4.89251 -2.40085,4.89251 l -91.44003,0 c -1.63281,0 -2.95762,-1.38601 -2.95762,-3.0899" /><g
-     transform="matrix(1.97438,0,0,1.97438,119.74585,145.99372)"
-     id="g694"><path
+   id="g9322"><text
+     transform="scale(1,-1)"
+     style="font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     id="text674"
+     x="20.914827"
+     y="-405.49084"><tspan
+       sodipodi:role="line"
+       id="tspan684"
+       x="20.914827"
+       y="-405.49084"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:120%;font-family:Verdana;-inkscape-font-specification:Verdana">Machine Learning</tspan><tspan
+       sodipodi:role="line"
+       x="20.914827"
+       y="-391.09085"
+       id="tspan3791"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:120%;font-family:Verdana;-inkscape-font-specification:Verdana">(TensorFlow)</tspan></text><g
+     id="g5697"
+     transform="translate(12.588838,255.71454)"><path
        sodipodi:nodetypes="ccsscssc"
        inkscape:connector-curvature="0"
-       id="path696"
-       style="fill:#00b2e5;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 0,0 0,0 c 0,-0.863 0.7,-1.563 1.564,-1.563 l 38.941619,0 c 0.503,0 0.975,0.241 1.269,0.649 0.746,1.034 0.006,2.478 -1.269,2.478 L 1.564,1.564 C 0.7,1.564 0,0.864 0,0" /></g></g></g><g
-     id="g4073"><g
-   transform="matrix(1.97438,0,0,1.97438,132.33468,277.59625)"
-   id="g6412"><g
-     id="g5642"><g
-       transform="translate(0,-5.0243621e-4)"
-       id="g698"><path
+       id="path6372"
+       style="fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 119.74585,145.99175 v 0 c 0,-1.70586 1.32481,-3.08596 2.95762,-3.08596 h 91.44003 c 0.95165,0 1.84407,0.47978 2.40085,1.28335 1.40773,2.04151 0.0118,4.89251 -2.40085,4.89251 h -91.44003 c -1.63281,0 -2.95762,-1.38601 -2.95762,-3.0899" /><g
+       transform="matrix(1.97438,0,0,1.97438,119.74585,145.99372)"
+       id="g694"><path
          sodipodi:nodetypes="ccsscssc"
          inkscape:connector-curvature="0"
-         id="path700"
-         style="fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         d="m 0,0 0,0 c 0,-0.864 0.671,-1.563 1.498,-1.563 l 46.313289,0 c 0.482,0 0.934,0.243 1.216,0.65 0.713,1.034 0.006,2.478 -1.216,2.478 L 1.498,1.565 C 0.671,1.565 0,0.863 0,0" /></g><path
-       d="m 0,0 0,0 c 0,-0.863 0.7,-1.563 1.564,-1.563 l 38.94162,0 c 0.503,0 0.975,0.241 1.269,0.649 0.746,1.034 0.006,2.478 -1.269,2.478 L 1.564,1.564 C 0.7,1.564 0,0.864 0,0"
-       style="fill:#00b2e5;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="path6414"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccsscssc" /></g></g><text
-   y="-273.96152"
-   x="21.319921"
-   id="text6416"
-   style="font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none"
-   transform="scale(1,-1)"><tspan
-     y="-273.96152"
-     x="21.319921"
-     id="tspan6418"
-     sodipodi:role="line">Java</tspan></text>
-
-
-
-
-</g><g
-     id="g3976"><g
+         id="path696"
+         style="fill:#00b2e5;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 0,0 v 0 c 0,-0.863 0.7,-1.563 1.564,-1.563 h 36.692412 c 0.503,0 0.975,0.241 1.269,0.649 0.746,1.034 0.006,2.478 -1.269,2.478 L 1.564,1.564 C 0.7,1.564 0,0.864 0,0" /></g></g></g></g><g
+   id="g3976"
+   transform="translate(0,-26.385402)"><g
    id="g702"
    transform="matrix(1.97438,0,0,1.97438,132.33468,433.83029)"><g
      id="g6420"
@@ -1668,112 +1536,49 @@
        inkscape:connector-curvature="0"
        id="path6422"
        style="fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 0,0 0,0 c 0,-0.864 0.671,-1.563 1.498,-1.563 l 46.313289,0 c 0.482,0 0.934,0.243 1.216,0.65 0.713,1.034 0.006,2.478 -1.216,2.478 L 1.498,1.565 C 0.671,1.565 0,0.863 0,0"
+       d="m 0,0 v 0 c 0,-0.864 0.671,-1.563 1.498,-1.563 h 46.313289 c 0.482,0 0.934,0.243 1.216,0.65 0.713,1.034 0.006,2.478 -1.216,2.478 L 1.498,1.565 C 0.671,1.565 0,0.863 0,0"
        transform="translate(0,-9.9575563e-4)" /><path
        sodipodi:nodetypes="ccsscssc"
        inkscape:connector-curvature="0"
        id="path704"
        style="fill:#00b2e5;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 0,0 0,0 c 0,-0.863 0.7,-1.563 1.564,-1.563 l 43.35885,0 c 0.503,0 0.975,0.242 1.269,0.649 0.746,1.035 0.007,2.477 -1.269,2.477 L 1.564,1.563 C 0.7,1.563 0,0.864 0,0" /></g></g><text
+       d="m 0,0 v 0 c 0,-0.863 0.7,-1.563 1.564,-1.563 h 43.35885 c 0.503,0 0.975,0.242 1.269,0.649 0.746,1.035 0.007,2.477 -1.269,2.477 H 1.564 C 0.7,1.563 0,0.864 0,0" /></g></g><text
    transform="scale(1,-1)"
-   style="font-variant:normal;font-weight:normal;font-stretch:normal;line-height:120.00000477%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   style="font-variant:normal;font-weight:normal;font-stretch:normal;line-height:120%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;white-space:pre;inline-size:121.954;fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none"
    id="text6424"
    x="20.914827"
-   y="-437.61288"><tspan
-     sodipodi:role="line"
+   y="-437.61288"
+   xml:space="preserve"><tspan
      x="20.914827"
      y="-437.61288"
-     id="tspan3793">Python</tspan><tspan
-     sodipodi:role="line"
+     id="tspan27308"><tspan
+       style="font-family:Verdana;-inkscape-font-specification:Verdana"
+       id="tspan27306">Python
+</tspan></tspan><tspan
      x="20.914827"
-     y="-423.12659"
-     id="tspan3797">(+NumPy, Matplotlib)</tspan></text>
+     y="-423.0515"
+     id="tspan27312"><tspan
+       style="font-family:Verdana;-inkscape-font-specification:Verdana"
+       id="tspan27310">(+many libraries)</tspan></tspan></text>
 
 
 
 
 </g><g
-     id="g4082"><g
-   id="g5647"
-   transform="translate(15.83756,-116.83478)"><g
-     id="g6429"
-     transform="matrix(1.97438,0,0,1.97438,116.49712,370.13143)"><path
-       d="m 0,0 0,0 c 0,-0.864 0.671,-1.563 1.498,-1.563 l 46.313289,0 c 0.482,0 0.934,0.243 1.216,0.65 0.713,1.034 0.006,2.478 -1.216,2.478 L 1.498,1.565 C 0.671,1.565 0,0.863 0,0"
-       style="fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="path6431"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccsscssc" /></g><g
-     transform="matrix(1.97438,0,0,1.97438,116.49712,370.13538)"
-     id="g706"><path
-       sodipodi:nodetypes="ccsscssc"
-       inkscape:connector-curvature="0"
-       id="path708"
-       style="fill:#00b2e5;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 0,0 0,0 c 0,-0.863 0.671,-1.565 1.498,-1.565 l 23.655409,0 c 0.481,0 0.933,0.243 1.215,0.651 0.714,1.034 0.006,2.477 -1.215,2.477 L 1.498,1.563 C 0.671,1.563 0,0.864 0,0" /></g></g><text
-   y="-257.08121"
-   x="20.985718"
-   id="text6443"
-   style="font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none"
-   transform="scale(1,-1)"><tspan
-     y="-257.08121"
-     x="20.985718"
-     id="tspan6445"
-     sodipodi:role="line"
-     style="line-height:116.99999571%">Robotics/IoT</tspan><tspan
-     y="-243.04121"
-     x="20.985718"
-     sodipodi:role="line"
-     id="tspan5798"
-     style="line-height:116.99999571%">(Arduino, Raspberry Pi)</tspan></text>
-
-
-
-
-</g><g
-     id="g4064"><g
-   id="g5653"
-   transform="translate(15.83756,-52.462692)"><g
-     transform="matrix(1.97438,0,0,1.97438,116.49712,347.79151)"
-     id="g6447"><path
-       sodipodi:nodetypes="ccsscssc"
-       inkscape:connector-curvature="0"
-       id="path6449"
-       style="fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 0,0 0,0 c 0,-0.864 0.671,-1.563 1.498,-1.563 l 46.313289,0 c 0.482,0 0.934,0.243 1.216,0.65 0.713,1.034 0.006,2.478 -1.216,2.478 L 1.498,1.565 C 0.671,1.565 0,0.863 0,0" /></g><g
-     transform="matrix(1.97438,0,0,1.97438,116.49712,347.7925)"
-     id="g710"><path
-       sodipodi:nodetypes="ccsscssc"
-       inkscape:connector-curvature="0"
-       id="path712"
-       style="fill:#00b2e5;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 0,0 0,0 c 0,-0.863 0.671,-1.563 1.498,-1.563 l 29.447493,0 c 0.482,0 0.934,0.24 1.216,0.65 0.713,1.033 0.006,2.477 -1.216,2.477 L 1.498,1.564 C 0.671,1.564 0,0.863 0,0" /></g></g><text
-   y="-292.54831"
-   x="20.732534"
-   id="text6451"
-   style="font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none"
-   transform="scale(1,-1)"><tspan
-     y="-292.54831"
-     x="20.732534"
-     id="tspan6453"
-     sodipodi:role="line">Data Analysis</tspan></text>
-
-
-
-
-</g><g
-     id="g4115"><g
+   id="g4115"
+   transform="translate(0,132.78798)"><g
    id="g5659"
    transform="translate(15.83756,-117.45231)"><g
      id="g3807"
      transform="matrix(1.97438,0,0,1.97438,116.49712,329.92448)"><path
-       d="m 0,0 0,0 c 0,-0.864 0.671,-1.563 1.498,-1.563 l 46.313289,0 c 0.482,0 0.934,0.243 1.216,0.65 0.713,1.034 0.006,2.478 -1.216,2.478 L 1.498,1.565 C 0.671,1.565 0,0.863 0,0"
+       d="m 0,0 v 0 c 0,-0.864 0.671,-1.563 1.498,-1.563 h 46.313289 c 0.482,0 0.934,0.243 1.216,0.65 0.713,1.034 0.006,2.478 -1.216,2.478 L 1.498,1.565 C 0.671,1.565 0,0.863 0,0"
        style="fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="path3809"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccsscssc" /></g><g
      id="g3799"
      transform="matrix(1.97438,0,0,1.97438,116.49712,329.92448)"><path
-       d="m 0,0 v 0 c 0,-0.863 0.671,-1.563 1.498,-1.563 l 30.750164,0 c 0.482,0 0.934,0.24 1.216,0.65 0.713,1.033 0.006,2.477 -1.216,2.477 L 1.498,1.564 C 0.671,1.564 0,0.863 0,0"
+       d="m 0,0 v 0 c 0,-0.863 0.671,-1.563 1.498,-1.563 h 28.750869 c 0.482,0 0.934,0.24 1.216,0.65 0.713,1.033 0.006,2.477 -1.216,2.477 H 1.498 C 0.671,1.564 0,0.863 0,0"
        style="fill:#00b2e5;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="path3801"
        inkscape:connector-curvature="0"
@@ -1786,13 +1591,15 @@
      sodipodi:role="line"
      id="tspan3805"
      x="20.970526"
-     y="-208.78778">Git</tspan></text>
+     y="-208.78778"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana">Git</tspan></text>
 
 
 
 
 </g><g
-     id="g4143"><g
+   id="g4143"
+   transform="translate(0,-3.0152906e-4)"><g
    id="g5683"
    transform="translate(15.83756,-96.058075)"><g
      transform="matrix(1.97438,0,0,1.97438,116.49712,233.27474)"
@@ -1801,14 +1608,14 @@
        inkscape:connector-curvature="0"
        id="path3821"
        style="fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 0,0 0,0 c 0,-0.864 0.671,-1.563 1.498,-1.563 l 46.313289,0 c 0.482,0 0.934,0.243 1.216,0.65 0.713,1.034 0.006,2.478 -1.216,2.478 L 1.498,1.565 C 0.671,1.565 0,0.863 0,0" /></g><g
+       d="m 0,0 v 0 c 0,-0.864 0.671,-1.563 1.498,-1.563 h 46.313289 c 0.482,0 0.934,0.243 1.216,0.65 0.713,1.034 0.006,2.478 -1.216,2.478 L 1.498,1.565 C 0.671,1.565 0,0.863 0,0" /></g><g
      transform="matrix(1.97438,0,0,1.97438,116.49712,233.27474)"
      id="g3811"><path
        sodipodi:nodetypes="ccsscssc"
        inkscape:connector-curvature="0"
        id="path3813"
        style="fill:#00b2e5;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 0,0 0,0 c 0,-0.863 0.671,-1.563 1.498,-1.563 l 15.872583,0 c 0.482,0 0.934,0.24 1.216,0.65 0.713,1.033 0.006,2.477 -1.216,2.477 L 1.498,1.564 C 0.671,1.564 0,0.863 0,0" /></g></g><text
+       d="m 0,0 v 0 c 0,-0.863 0.671,-1.563 1.498,-1.563 h 15.872583 c 0.482,0 0.934,0.24 1.216,0.65 0.713,1.033 0.006,2.477 -1.216,2.477 H 1.498 C 0.671,1.564 0,0.863 0,0" /></g></g><text
    y="-141.15312"
    x="21.117373"
    id="text3815"
@@ -1818,18 +1625,19 @@
      x="21.117373"
      id="tspan3817"
      sodipodi:role="line"
-     style="line-height:120.00000477%">2D Design</tspan><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:120%;font-family:Verdana;-inkscape-font-specification:Verdana">2D Design</tspan><tspan
      y="-126.75312"
      x="21.117373"
      sodipodi:role="line"
      id="tspan4367"
-     style="line-height:120.00000477%">(Inkscape)</tspan></text>
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:120%;font-family:Verdana;-inkscape-font-specification:Verdana">(Inkscape)</tspan></text>
 
 
 
 
 </g><g
-     id="g4106"><g
+   id="g4106"
+   transform="translate(0,-15.99844)"><g
    id="g5665"
    transform="translate(15.83756,-79.403612)"><g
      transform="matrix(1.97438,0,0,1.97438,116.49712,308.40164)"
@@ -1838,14 +1646,14 @@
        inkscape:connector-curvature="0"
        id="path3825"
        style="fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 0,0 0,0 c 0,-0.864 0.671,-1.563 1.498,-1.563 l 46.313289,0 c 0.482,0 0.934,0.243 1.216,0.65 0.713,1.034 0.006,2.478 -1.216,2.478 L 1.498,1.565 C 0.671,1.565 0,0.863 0,0" /></g><g
+       d="m 0,0 v 0 c 0,-0.864 0.671,-1.563 1.498,-1.563 h 46.313289 c 0.482,0 0.934,0.243 1.216,0.65 0.713,1.034 0.006,2.478 -1.216,2.478 L 1.498,1.565 C 0.671,1.565 0,0.863 0,0" /></g><g
      transform="matrix(1.97438,0,0,1.97438,116.49712,308.40164)"
      id="g3827"><path
        sodipodi:nodetypes="ccsscssc"
        inkscape:connector-curvature="0"
        id="path3829"
        style="fill:#00b2e5;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 0,0 0,0 c 0,-0.863 0.671,-1.563 1.498,-1.563 l 34.178144,0 c 0.482,0 0.934,0.24 1.216,0.65 0.713,1.033 0.006,2.477 -1.216,2.477 L 1.498,1.564 C 0.671,1.564 0,0.863 0,0" /></g></g><text
+       d="m 0,0 v 0 c 0,-0.863 0.671,-1.563 1.498,-1.563 h 34.178144 c 0.482,0 0.934,0.24 1.216,0.65 0.713,1.033 0.006,2.477 -1.216,2.477 H 1.498 C 0.671,1.564 0,0.863 0,0" /></g></g><text
    y="-225.36427"
    x="20.732533"
    id="text3831"
@@ -1854,55 +1662,20 @@
      y="-225.36427"
      x="20.732533"
      id="tspan3833"
-     sodipodi:role="line">LaTeX</tspan></text>
+     sodipodi:role="line"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana">LaTeX</tspan></text>
 
 
 
 
 </g><g
-     id="g4005"><g
-   id="g5671"
-   transform="translate(15.83756,50.731456)"><g
-     transform="matrix(1.97438,0,0,1.97438,116.49712,286.8827)"
-     id="g3847"><path
-       sodipodi:nodetypes="ccsscssc"
-       inkscape:connector-curvature="0"
-       id="path3849"
-       style="fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 0,0 0,0 c 0,-0.864 0.671,-1.563 1.498,-1.563 l 46.313289,0 c 0.482,0 0.934,0.243 1.216,0.65 0.713,1.034 0.006,2.478 -1.216,2.478 L 1.498,1.565 C 0.671,1.565 0,0.863 0,0" /></g><g
-     id="g3851"
-     transform="matrix(1.97438,0,0,1.97438,116.49712,286.88665)"><path
-       d="m 0,0 0,0 c 0,-0.863 0.671,-1.565 1.498,-1.565 l 24.889492,0 c 0.481,0 0.933,0.243 1.215,0.651 0.714,1.034 0.006,2.477 -1.215,2.477 L 1.498,1.563 C 0.671,1.563 0,0.864 0,0"
-       style="fill:#00b2e5;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="path3853"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccsscssc" /></g></g><text
-   transform="scale(1,-1)"
-   style="font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none"
-   id="text3855"
-   x="20.914827"
-   y="-341.55063"><tspan
-     sodipodi:role="line"
-     id="tspan3857"
-     x="20.914827"
-     y="-341.55063"
-     style="line-height:120.00000477%">Image Processing</tspan><tspan
-     sodipodi:role="line"
-     x="20.914827"
-     y="-327.15063"
-     id="tspan3861"
-     style="line-height:120.00000477%">(OpenCV)</tspan></text>
-
-
-
-
-</g><g
-     id="g3995"><g
+   id="g3995"
+   transform="translate(0,-131.20048)"><g
    id="g5677"
    transform="translate(15.83756,103.81832)"><g
      id="g3865"
      transform="matrix(1.97438,0,0,1.97438,116.49712,265.76595)"><path
-       d="m 0,0 0,0 c 0,-0.864 0.671,-1.563 1.498,-1.563 l 46.313289,0 c 0.482,0 0.934,0.243 1.216,0.65 0.713,1.034 0.006,2.478 -1.216,2.478 L 1.498,1.565 C 0.671,1.565 0,0.863 0,0"
+       d="m 0,0 v 0 c 0,-0.864 0.671,-1.563 1.498,-1.563 h 46.313289 c 0.482,0 0.934,0.243 1.216,0.65 0.713,1.034 0.006,2.478 -1.216,2.478 L 1.498,1.565 C 0.671,1.565 0,0.863 0,0"
        style="fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="path3867"
        inkscape:connector-curvature="0"
@@ -1913,7 +1686,7 @@
        inkscape:connector-curvature="0"
        id="path3871"
        style="fill:#00b2e5;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 0,0 0,0 c 0,-0.863 0.671,-1.565 1.498,-1.565 l 37.024639,0 c 0.481,0 0.933,0.243 1.215,0.651 0.714,1.034 0.006,2.477 -1.215,2.477 L 1.498,1.563 C 0.671,1.563 0,0.864 0,0" /></g></g><text
+       d="m 0,0 v 0 c 0,-0.863 0.671,-1.565 1.498,-1.565 h 37.024639 c 0.481,0 0.933,0.243 1.215,0.651 0.714,1.034 0.006,2.477 -1.215,2.477 H 1.498 C 0.671,1.563 0,0.864 0,0" /></g></g><text
    y="-373.36884"
    x="20.914827"
    id="text3873"
@@ -1923,47 +1696,19 @@
      y="-373.36884"
      x="20.914827"
      sodipodi:role="line"
-     style="line-height:120.00000477%">Natural Language</tspan><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:120%;font-family:Verdana;-inkscape-font-specification:Verdana">Natural Language</tspan><tspan
      y="-358.96884"
      x="20.914827"
      sodipodi:role="line"
-     id="tspan3881"
-     style="line-height:120.00000477%">Processing (NLTK)</tspan></text>
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:120%;font-family:Verdana;-inkscape-font-specification:Verdana"
+     id="tspan7122">Processing</tspan></text>
 
 
 
 
 </g><g
-     id="g4056"><text
-   y="-309.42862"
-   x="20.732534"
-   id="text5689"
-   style="font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none"
-   transform="scale(1,-1)"><tspan
-     id="tspan5693"
-     y="-309.42862"
-     x="20.732534"
-     sodipodi:role="line">Metaheuristics</tspan></text>
-
-
-
-
-<g
-   transform="translate(12.588838,-132.82837)"
-   id="g5705"><path
-     d="m 119.74585,446.09328 0,0 c 0,-1.70586 1.32481,-3.08596 2.95762,-3.08596 l 91.44003,0 c 0.95165,0 1.84407,0.47978 2.40085,1.28335 1.40773,2.04151 0.0118,4.89251 -2.40085,4.89251 l -91.44003,0 c -1.63281,0 -2.95762,-1.38601 -2.95762,-3.0899"
-     style="fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none"
-     id="path5707"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccsscssc" /><g
-     id="g5709"
-     transform="matrix(1.97438,0,0,1.97438,119.74585,446.09525)"><path
-       d="m 0,0 0,0 c 0,-0.863 0.7,-1.563 1.564,-1.563 l 30.508721,0 c 0.503,0 0.975,0.241 1.269,0.649 0.746,1.034 0.006,2.478 -1.269,2.478 L 1.564,1.564 C 0.7,1.564 0,0.864 0,0"
-       style="fill:#00b2e5;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="path5711"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccsscssc" /></g></g></g><g
-     id="g4124"><text
+   id="g4124"
+   transform="translate(0,0.96016303)"><text
    transform="scale(1,-1)"
    style="font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none"
    id="text5728"
@@ -1973,12 +1718,12 @@
      sodipodi:role="line"
      x="21.117373"
      y="-191.90746"
-     style="line-height:120.00000477%">System administration</tspan><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:120%;font-family:Verdana;-inkscape-font-specification:Verdana">System administration</tspan><tspan
      sodipodi:role="line"
      x="21.117373"
      y="-177.50746"
      id="tspan5736"
-     style="line-height:120.00000477%">(GNU/Linux)</tspan></text>
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:120%;font-family:Verdana;-inkscape-font-specification:Verdana">(GNU/Linux)</tspan></text>
 
 
 
@@ -1988,19 +1733,20 @@
    id="g5738"><g
      id="g5740"
      transform="matrix(1.97438,0,0,1.97438,116.49712,233.27474)"><path
-       d="m 0,0 0,0 c 0,-0.864 0.671,-1.563 1.498,-1.563 l 46.313289,0 c 0.482,0 0.934,0.243 1.216,0.65 0.713,1.034 0.006,2.478 -1.216,2.478 L 1.498,1.565 C 0.671,1.565 0,0.863 0,0"
+       d="m 0,0 v 0 c 0,-0.864 0.671,-1.563 1.498,-1.563 h 46.313289 c 0.482,0 0.934,0.243 1.216,0.65 0.713,1.034 0.006,2.478 -1.216,2.478 L 1.498,1.565 C 0.671,1.565 0,0.863 0,0"
        style="fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="path5742"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccsscssc" /></g><g
      id="g5744"
      transform="matrix(1.97438,0,0,1.97438,116.49712,233.27474)"><path
-       d="m 0,0 0,0 c 0,-0.863 0.671,-1.563 1.498,-1.563 l 31.092936,0 c 0.482,0 0.934,0.24 1.216,0.65 0.713,1.033 0.006,2.477 -1.216,2.477 L 1.498,1.564 C 0.671,1.564 0,0.863 0,0"
+       d="m 0,0 v 0 c 0,-0.863 0.671,-1.563 1.498,-1.563 h 26.844434 c 0.482,0 0.934,0.24 1.216,0.65 0.713,1.033 0.006,2.477 -1.216,2.477 H 1.498 C 0.671,1.564 0,0.863 0,0"
        style="fill:#00b2e5;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="path5746"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccsscssc" /></g></g></g><g
-     id="g4134"><text
+   id="g4134"
+   transform="translate(0,-0.04848875)"><text
    y="-159.78546"
    x="21.117373"
    id="text5748"
@@ -2009,7 +1755,8 @@
      id="tspan5752"
      y="-159.78546"
      x="21.117373"
-     sodipodi:role="line">Networking</tspan></text>
+     sodipodi:role="line"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana">Networking</tspan></text>
 
 
 
@@ -2023,14 +1770,113 @@
        inkscape:connector-curvature="0"
        id="path5760"
        style="fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 0,0 0,0 c 0,-0.864 0.671,-1.563 1.498,-1.563 l 46.313289,0 c 0.482,0 0.934,0.243 1.216,0.65 0.713,1.034 0.006,2.478 -1.216,2.478 L 1.498,1.565 C 0.671,1.565 0,0.863 0,0" /></g><g
-     transform="matrix(1.97438,0,0,1.97438,116.49712,233.27474)"
+       d="m 0,0 v 0 c 0,-0.864 0.671,-1.563 1.498,-1.563 h 46.313289 c 0.482,0 0.934,0.243 1.216,0.65 0.713,1.034 0.006,2.478 -1.216,2.478 L 1.498,1.565 C 0.671,1.565 0,0.863 0,0" /></g><g
+     transform="matrix(1.6935276,0,0,1.97438,116.49712,233.27474)"
      id="g5762"><path
        sodipodi:nodetypes="ccsscssc"
        inkscape:connector-curvature="0"
        id="path5764"
        style="fill:#00b2e5;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 0,0 0,0 c 0,-0.863 0.671,-1.563 1.498,-1.563 l 28.624771,0 c 0.482,0 0.934,0.24 1.216,0.65 0.713,1.033 0.006,2.477 -1.216,2.477 L 1.498,1.564 C 0.671,1.564 0,0.863 0,0" /></g></g></g></g><flowRoot
+       d="m 0,0 v 0 c 0,-0.863 0.671,-1.563 1.498,-1.563 h 28.624771 c 0.482,0 0.934,0.24 1.216,0.65 0.713,1.033 0.006,2.477 -1.216,2.477 H 1.498 C 0.671,1.564 0,0.863 0,0" /></g></g></g><g
+   id="g9340"
+   transform="translate(0,-52.232708)"><g
+   id="g9332"
+   transform="matrix(1.97438,0,0,1.97438,132.33468,433.83029)"><g
+     id="g9324"
+     transform="translate(0,-9.9676861e-4)" /><g
+     id="g9330"><path
+       sodipodi:nodetypes="ccsscssc"
+       inkscape:connector-curvature="0"
+       id="path9326"
+       style="fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 0,0 v 0 c 0,-0.864 0.671,-1.563 1.498,-1.563 h 46.313289 c 0.482,0 0.934,0.243 1.216,0.65 0.713,1.034 0.006,2.478 -1.216,2.478 L 1.498,1.565 C 0.671,1.565 0,0.863 0,0"
+       transform="translate(0,-9.9575563e-4)" /><path
+       sodipodi:nodetypes="ccsscssc"
+       inkscape:connector-curvature="0"
+       id="path9328"
+       style="fill:#00b2e5;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 0,0 v 0 c 0,-0.863 0.7,-1.563 1.564,-1.563 h 35.111758 c 0.503,0 0.975,0.242 1.269,0.649 0.746,1.035 0.007,2.477 -1.269,2.477 H 1.564 C 0.7,1.563 0,0.864 0,0" /></g></g><text
+   transform="scale(1,-1)"
+   style="font-variant:normal;font-weight:normal;font-stretch:normal;line-height:120%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text9338"
+   x="20.914827"
+   y="-430.16818"><tspan
+     sodipodi:role="line"
+     x="20.914827"
+     y="-430.16818"
+     id="tspan9654"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana">Dart/Flutter</tspan></text>
+
+
+
+
+</g><g
+   id="g12215"
+   transform="translate(0,-70.096157)"><g
+   id="g12209"
+   transform="matrix(1.97438,0,0,1.97438,132.33468,433.83029)"><g
+     id="g12201"
+     transform="translate(0,-9.9676861e-4)" /><g
+     id="g12207"><path
+       sodipodi:nodetypes="ccsccscssc"
+       inkscape:connector-curvature="0"
+       id="path12203"
+       style="fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 0,0 v 0 c 0,-0.864 0.671,-1.563 1.498,-1.563 h 15.946279 7.247445 23.119565 c 0.482,0 0.934,0.243 1.216,0.65 0.713,1.034 0.006,2.478 -1.216,2.478 H 1.498 C 0.671,1.565 0,0.863 0,0"
+       transform="translate(0,-9.9575563e-4)" /><path
+       sodipodi:nodetypes="ccsscssc"
+       inkscape:connector-curvature="0"
+       id="path12205"
+       style="fill:#00b2e5;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 0,0 v 0 c 0,-0.863 0.7,-1.563 1.564,-1.563 h 23.115986 c 0.503,0 0.975,0.242 1.269,0.649 0.746,1.035 0.007,2.477 -1.269,2.477 H 1.564 C 0.7,1.563 0,0.864 0,0" /></g></g><text
+   transform="scale(1,-1)"
+   style="font-variant:normal;font-weight:normal;font-stretch:normal;line-height:120%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text12213"
+   x="20.914827"
+   y="-430.16818"><tspan
+     sodipodi:role="line"
+     x="20.914827"
+     y="-430.16818"
+     id="tspan12211"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana">JavaScript</tspan></text>
+
+
+
+
+</g><g
+   id="g13410"
+   transform="translate(0,116.30149)"><g
+   id="g13404"
+   transform="translate(15.83756,-117.45231)"><g
+     id="g13398"
+     transform="matrix(1.97438,0,0,1.97438,116.49712,329.92448)"><path
+       d="m 0,0 v 0 c 0,-0.864 0.671,-1.563 1.498,-1.563 h 46.313289 c 0.482,0 0.934,0.243 1.216,0.65 0.713,1.034 0.006,2.478 -1.216,2.478 L 1.498,1.565 C 0.671,1.565 0,0.863 0,0"
+       style="fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path13396"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccsscssc" /></g><g
+     id="g13402"
+     transform="matrix(1.97438,0,0,1.97438,116.49712,329.92448)"><path
+       d="m 0,0 v 0 c 0,-0.863 0.671,-1.563 1.498,-1.563 h 16.005362 c 0.482,0 0.934,0.24 1.216,0.65 0.713,1.033 0.006,2.477 -1.216,2.477 H 1.498 C 0.671,1.564 0,0.863 0,0"
+       style="fill:#00b2e5;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path13400"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccsscssc" /></g></g><text
+   transform="scale(1,-1)"
+   style="font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text13408"
+   x="20.970526"
+   y="-208.78778"><tspan
+     sodipodi:role="line"
+     id="tspan13406"
+     x="20.970526"
+     y="-208.78778"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana">Docker</tspan></text>
+
+
+
+
+</g><flowRoot
    xml:space="preserve"
    id="flowRoot5974"
    style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
@@ -2040,51 +1886,12 @@
        height="134.51776"
        x="308.12183"
        y="281.80383" /></flowRegion><flowPara
-     id="flowPara5980"> </flowPara></flowRoot><text
-   xml:space="preserve"
-   style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-   x="536.44666"
-   y="-537.66498"
-   id="text6054"
-   transform="scale(1,-1)"><tspan
-     sodipodi:role="line"
-     id="tspan6056"
-     x="536.44666"
-     y="-537.66498"> </tspan></text>
+     id="flowPara5980"> </flowPara></flowRoot>
 
 
 
 
-<g
-   id="g4581"
-   transform="translate(0,-51.992213)"><g
-   id="g4513"><g
-     transform="matrix(1.97438,0,0,1.97438,467.35518,182.20997)"
-     id="g3868"><path
-       inkscape:connector-curvature="0"
-       id="path3870"
-       style="fill:#00b2e5;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 0,0 15.041,0 c 1.276,0 1.777,1.837 0.715,2.625 -5.651,4.2 -18.318,11.967 -34.699,11.967 l -15.042,0 C -17.604,14.592 -4.938,6.825 0.714,2.625 1.776,1.837 1.277,0 0,0" /></g><g
-     transform="matrix(1.97438,0,0,1.97438,362.28124,182.20997)"
-     id="g3872"><path
-       inkscape:connector-curvature="0"
-       id="path3874"
-       style="fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 0,0 4.576,0 10.467,0 4.575,0 33.601,0 c 1.277,0 1.776,1.837 0.714,2.625 -5.653,4.2 -18.319,11.967 -34.7,11.967 l -77.338,0 L -58.105,0 0,0 Z" /></g></g><text
-   transform="scale(1,-1)"
-   style="font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-   id="text3876"
-   x="261.81528"
-   y="-191.25311"><tspan
-     sodipodi:role="line"
-     id="tspan3878"
-     x="261.81528"
-     y="-191.25311">LANGUAGES</tspan></text>
 
-
-
-
-</g>
 
 
 
@@ -2092,16 +1899,18 @@
 
 
 <g
-   id="g609"
-   transform="translate(0,-6.9078947)"><text
+   id="g613"
+   transform="translate(0,-12.804878)"><g
+     id="g609"
+     transform="translate(0,36.224326)"><text
    y="-258.82275"
-   x="280.87234"
+   x="288.27365"
    id="text536"
-   style="font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#808184;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#808184;fill-opacity:1;fill-rule:nonzero;stroke:none"
    transform="scale(1,-1)"><tspan
-     style="font-size:11px"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:Verdana;-inkscape-font-specification:Verdana"
      y="-258.82275"
-     x="280.87234"
+     x="288.27365"
      id="tspan540"
      sodipodi:role="line">Al Baraka Bank - Algiers </tspan></text>
 
@@ -2111,29 +1920,29 @@
    id="text542"
    style="font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none"
    transform="scale(1,-1)"><tspan
-     style="font-size:11px"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:Verdana;-inkscape-font-specification:Verdana"
      y="-271.85568"
      x="247.45966"
      id="tspan544"
      sodipodi:role="line">2014   Internship in IT</tspan></text>
 
 </g><g
-   id="g603"
-   transform="translate(0,-0.49342105)"><text
+     id="g603"
+     transform="translate(0,37.006579)"><text
    transform="scale(1,-1)"
-   style="font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#808184;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#808184;fill-opacity:1;fill-rule:nonzero;stroke:none"
    id="text4592"
-   x="279.8855"
+   x="286.29996"
    y="-300.56528"><tspan
-     style="font-size:11px;line-height:120.00000477%"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:120%;font-family:Verdana;-inkscape-font-specification:Verdana"
      sodipodi:role="line"
      id="tspan4594"
-     x="279.8855"
+     x="286.29996"
      y="-300.56528">&quot;Apprenez à programmer en C&quot; of OpenClassrooms</tspan><tspan
-     style="font-size:11px;line-height:120.00000477%"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:120%;font-family:Verdana;-inkscape-font-specification:Verdana"
      id="tspan4604"
      sodipodi:role="line"
-     x="279.8855"
+     x="286.29996"
      y="-287.36526">from French to Arabic (available on my GitHub)</tspan></text>
 
 <text
@@ -2142,28 +1951,443 @@
    id="text4596"
    x="247.45966"
    y="-313.59821"><tspan
-     style="font-size:11px"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:Verdana;-inkscape-font-specification:Verdana"
      sodipodi:role="line"
      id="tspan4598"
      x="247.45966"
-     y="-313.59821">2017   Major participant in the translation of a programming book</tspan></text>
+     y="-313.59821">2017   Major participant in the translation of a book</tspan></text>
 
-</g>
-<text
-   xml:space="preserve"
-   style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-   x="258.28571"
-   y="-88.429939"
-   id="text4067"
-   transform="scale(1,-1)"><tspan
-     sodipodi:role="line"
-     id="tspan4069"
-     x="258.28571"
-     y="-88.429939"> </tspan></text>
+</g></g>
+
+
 
 
 <g
-   transform="translate(0,33.203773)"
+   id="g131991"
+   transform="translate(0,-6.097561)"><text
+     transform="scale(1,-1)"
+     style="font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     id="text4087"
+     x="247.45966"
+     y="-214.51105"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:Verdana;-inkscape-font-specification:Verdana"
+       sodipodi:role="line"
+       id="tspan4089"
+       x="247.45966"
+       y="-214.51105">2018     Chinese proficiency test : HSK 4 (218/300)</tspan></text><text
+     y="-196.9095"
+     x="247.45966"
+     id="text4097"
+     style="font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     transform="scale(1,-1)"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:Verdana;-inkscape-font-specification:Verdana"
+       y="-196.9095"
+       x="247.45966"
+       id="tspan4099"
+       sodipodi:role="line">2016     Machine Learning course in Coursera (97.3%)</tspan></text><text
+     y="-232.2254"
+     x="247.45966"
+     id="text2361"
+     style="font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     transform="scale(1,-1)"><tspan
+       y="-232.2254"
+       x="247.45966"
+       id="tspan2359"
+       sodipodi:role="line"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:Verdana;-inkscape-font-specification:Verdana">2018     English proficiency test : IELTS  Band 6.5</tspan></text></g>
+
+<g
+   id="g131983"><g
+     id="g131943"><text
+       y="-79.149696"
+       x="253.0168"
+       id="text4102"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="scale(1,-1)"><tspan
+         y="-79.149696"
+         x="253.0168"
+         id="tspan4104"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana">中文-普通话</tspan></text><text
+       transform="scale(1,-1)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text891"
+       x="385.74707"
+       y="-79.636024"><tspan
+         sodipodi:role="line"
+         id="tspan889"
+         x="385.74707"
+         y="-79.636024"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana">HSK4 - score: 218/300</tspan></text><text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="258.28571"
+       y="-88.429939"
+       id="text4067"
+       transform="scale(1,-1)"><tspan
+         sodipodi:role="line"
+         id="tspan4069"
+         x="258.28571"
+         y="-88.429939"> </tspan></text></g><g
+     id="g131935"><g
+       transform="translate(0,16.850953)"
+       id="g703"><text
+   transform="scale(1,-1)"
+   style="font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text4036"
+   x="253.19809"
+   y="-81.345009"><tspan
+     sodipodi:role="line"
+     id="tspan4038"
+     x="253.19809"
+     y="-81.345009"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana">English</tspan></text>
+
+</g><text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
+       id="text891-9"
+       x="385.68848"
+       y="-97.750656"
+       transform="scale(1,-1)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana;stroke-width:1"
+         sodipodi:role="line"
+         id="tspan889-0"
+         x="385.68848"
+         y="-97.750656">IELTS score: 6.5 (B2)</tspan></text></g><g
+     id="g131905"><g
+       id="g720"
+       transform="translate(0,22.697373)"><text
+   transform="scale(1,-1)"
+   style="font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text4044"
+   x="252.6107"
+   y="-112.10284"><tspan
+     sodipodi:role="line"
+     x="252.6107"
+     y="-112.10284"
+     id="tspan4046"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana">العربية</tspan></text>
+
+</g><text
+       transform="scale(1,-1)"
+       y="-134.67715"
+       x="385.74707"
+       id="text2375"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"><tspan
+         y="-134.67715"
+         x="385.74707"
+         id="tspan2373"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana;stroke-width:1">Native language</tspan></text></g><g
+     id="g131912"><g
+       transform="translate(0,19.774163)"
+       id="g712"><text
+   transform="scale(1,-1)"
+   style="font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text4040"
+   x="252.6107"
+   y="-96.723923"><tspan
+     sodipodi:role="line"
+     id="tspan4042"
+     x="252.6107"
+     y="-96.723923"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana">Français</tspan></text>
+
+</g><text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
+       id="text2389"
+       x="386.67285"
+       y="-116.37504"
+       transform="scale(1,-1)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana;stroke-width:1"
+         sodipodi:role="line"
+         id="tspan2387"
+         x="386.67285"
+         y="-116.37504">Very good proficiency</tspan></text></g><g
+     id="g131950"><g
+       id="g2432"
+       transform="translate(0,-18.856764)"><text
+   y="-81.345009"
+   x="253.19809"
+   id="text2430"
+   style="font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="scale(1,-1)"><tspan
+     y="-81.345009"
+     x="253.19809"
+     id="tspan2428"
+     sodipodi:role="line"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana">Русский</tspan></text>
+
+</g><text
+       transform="scale(1,-1)"
+       y="-62.042934"
+       x="385.68848"
+       id="text2436"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"><tspan
+         y="-62.042934"
+         x="385.68848"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana;stroke-width:1"
+         id="tspan2440">Basic knowledge</tspan></text></g></g><text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+   x="536.44666"
+   y="-504.30893"
+   id="text6054"
+   transform="scale(1,-1)"><tspan
+     sodipodi:role="line"
+     id="tspan6056"
+     x="536.44666"
+     y="-504.30893"> </tspan></text><g
+   id="g25841"
+   transform="translate(0,-14.02439)"><g
+     id="g125243"
+     transform="translate(0,-19.20531)"><text
+       y="-476.85941"
+       x="332.18811"
+       id="text486"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#808184;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="scale(1,-1)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:Verdana;-inkscape-font-specification:Verdana"
+         y="-476.85941"
+         x="332.18811"
+         id="tspan490"
+         sodipodi:role="line">WHUT</tspan></text><text
+       y="-489.84427"
+       x="247.45966"
+       id="text492"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="scale(1,-1)"><tspan
+         y="-489.84427"
+         id="tspan494"
+         sodipodi:role="line"
+         x="247.45966"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana">2017-2018    Chinese language - HSK level 4 </tspan></text></g><g
+     id="g125249"
+     transform="translate(0,-8.6536214)"><text
+       y="-439.28513"
+       x="331.6886"
+       id="text496"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#808184;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="scale(1,-1)"><tspan
+         id="tspan3930"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:120%;font-family:Verdana;-inkscape-font-specification:Verdana"
+         y="-439.28513"
+         x="331.6886"
+         sodipodi:role="line">USTHB</tspan></text><text
+       y="-452.14694"
+       x="247.45966"
+       id="text502"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="scale(1,-1)"><tspan
+         y="-452.14694"
+         id="tspan504"
+         sodipodi:role="line"
+         x="247.45966"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana">2015-2017    Master's degree in Artificial intelligence</tspan></text></g><g
+     id="g125255"
+     transform="translate(0,12.799198)"><text
+       y="-390.74521"
+       x="331.6886"
+       id="text506"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#808184;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="scale(1,-1)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:120%;font-family:Verdana;-inkscape-font-specification:Verdana"
+         id="tspan6046"
+         y="-390.74521"
+         x="331.6886"
+         sodipodi:role="line">USTHB</tspan></text><text
+       y="-403.7301"
+       x="247.45966"
+       id="text512"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="scale(1,-1)"><tspan
+         y="-403.7301"
+         id="tspan514"
+         sodipodi:role="line"
+         x="247.45966"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana">2012-2015    Bachelor's degree in Computer Science</tspan></text></g><g
+     id="g125313"
+     transform="translate(0,-14.322193)"><text
+       y="-499.06335"
+       x="332.18811"
+       id="text108031"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#808184;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="scale(1,-1)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:Verdana;-inkscape-font-specification:Verdana"
+         y="-499.06335"
+         x="332.18811"
+         id="tspan108029"
+         sodipodi:role="line">WHUT</tspan></text><text
+       y="-512.04822"
+       x="247.45966"
+       id="text108035"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="scale(1,-1)"><tspan
+         y="-512.04822"
+         id="tspan108033"
+         sodipodi:role="line"
+         x="247.45966"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana">2018-Now     Ph.D. student in NLP  </tspan></text></g></g><g
+   id="g29299"><g
+     id="g136897"
+     transform="translate(15.83756,-25.264549)"><g
+       id="g136891"
+       transform="matrix(1.97438,0,0,1.97438,116.49712,329.92448)"><path
+         d="m 0,0 v 0 c 0,-0.864 0.671,-1.563 1.498,-1.563 h 46.313289 c 0.482,0 0.934,0.243 1.216,0.65 0.713,1.034 0.006,2.478 -1.216,2.478 L 1.498,1.565 C 0.671,1.565 0,0.863 0,0"
+         style="fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path136889"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccsscssc" /></g><g
+       id="g136895"
+       transform="matrix(1.97438,0,0,1.97438,116.49712,329.92448)"><path
+         d="m 0,0 v 0 c 0,-0.863 0.671,-1.563 1.498,-1.563 h 20.003952 c 0.482,0 0.934,0.24 1.216,0.65 0.713,1.033 0.006,2.477 -1.216,2.477 H 1.498 C 0.671,1.564 0,0.863 0,0"
+         style="fill:#00b2e5;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path136893"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccsscssc" /></g></g><text
+     transform="matrix(1,0,0,-1,0,99.803272)"
+     style="font-variant:normal;font-weight:normal;font-stretch:normal;line-height:120%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;letter-spacing:0px;writing-mode:lr-tb;white-space:pre;inline-size:148.5;fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     id="text136901"
+     x="20.970526"
+     y="-208.78778"
+     xml:space="preserve"><tspan
+       x="20.970526"
+       y="-208.78778"
+       id="tspan27316"><tspan
+         style="font-family:Verdana;-inkscape-font-specification:Verdana"
+         id="tspan27314">CI/CD
+</tspan></tspan><tspan
+       x="20.970526"
+       y="-194.22636"
+       id="tspan27320"><tspan
+         style="font-family:Verdana;-inkscape-font-specification:Verdana"
+         id="tspan27318">(GitHub Actions)</tspan></tspan></text></g><g
+   id="g6103"
+   transform="translate(0,27.961117)"><g
+   transform="matrix(1.97438,0,0,1.97438,-184.18055,-84.496417)"
+   id="g594"><g
+     clip-path="url(#clipPath598)"
+     id="g596"><g
+       transform="translate(329.9951,358.4263)"
+       id="g602"><path
+         inkscape:connector-curvature="0"
+         id="path604"
+         style="fill:#00b2e5;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 0,0 h 15.041 c 1.276,0 1.777,1.837 0.715,2.625 -5.651,4.201 -18.318,11.966 -34.699,11.966 H -33.985 C -17.604,14.591 -4.938,6.826 0.714,2.625 1.776,1.837 1.277,0 0,0" /></g><g
+       transform="translate(276.7764,358.4263)"
+       id="g606"><path
+         inkscape:connector-curvature="0"
+         id="path608"
+         style="fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 0,0 h 4.576 10.467 4.575 33.601 c 1.277,0 1.776,1.837 0.714,2.625 -5.653,4.201 -18.319,11.966 -34.7,11.966 h -77.338 l 0,-14.591 z" /></g></g></g><text
+   transform="scale(1,-1)"
+   style="font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text6330"
+   x="261.81528"
+   y="-632.21545"><tspan
+     sodipodi:role="line"
+     id="tspan6332"
+     x="261.81528"
+     y="-632.21545"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana">ABOUT ME</tspan></text>
+
+
+
+
+</g><g
+   id="g6156"
+   transform="translate(0,25.123542)"><g
+   transform="translate(11.77665)"
+   id="g6365"><g
+     id="g524"
+     transform="matrix(1.97438,0,0,1.97438,455.57853,473.90228)"><path
+       d="m 0,0 h 15.041 c 1.276,0 1.777,1.836 0.715,2.625 -5.651,4.2 -18.318,11.966 -34.699,11.966 H -33.985 C -17.604,14.591 -4.938,6.825 0.714,2.625 1.776,1.836 1.277,0 0,0"
+       style="fill:#00b2e5;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path526"
+       inkscape:connector-curvature="0" /></g><path
+     inkscape:connector-curvature="0"
+     id="path530"
+     style="fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     d="m 350.50459,473.90229 h 9.03476 20.66584 9.03279 66.34114 c 2.52128,0 3.5065,3.62496 1.40971,5.18275 -11.16117,8.29239 -36.16867,23.62543 -68.51099,23.62543 h -152.6946 v -28.80818 z" /></g><text
+   y="-482.90845"
+   x="261.81528"
+   id="text532"
+   style="font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="scale(1,-1)"><tspan
+     y="-482.90845"
+     x="261.81528"
+     id="tspan534"
+     sodipodi:role="line"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana">EDUCATION</tspan></text>
+
+
+
+
+</g><g
+   id="g4623"
+   transform="translate(0,85.017084)"><g
+   transform="matrix(1.97438,0,0,1.97438,-184.18055,-50.707859)"
+   id="g562"><g
+     clip-path="url(#clipPath566)"
+     id="g564"><g
+       transform="translate(329.9951,162.5166)"
+       id="g570"><path
+         inkscape:connector-curvature="0"
+         id="path572"
+         style="fill:#00b2e5;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 0,0 h 15.041 c 1.276,0 1.777,1.837 0.715,2.625 -5.651,4.2 -18.318,11.967 -34.699,11.967 H -33.985 C -17.604,14.592 -4.938,6.825 0.714,2.625 1.776,1.837 1.277,0 0,0" /></g><g
+       transform="translate(276.7764,162.5166)"
+       id="g574"><path
+         inkscape:connector-curvature="0"
+         id="path576"
+         style="fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 0,0 h 4.576 10.467 4.575 33.601 c 1.277,0 1.776,1.837 0.714,2.625 -5.653,4.2 -18.319,11.967 -34.7,11.967 H -58.105 V 0 Z" /></g></g></g><text
+   y="-279.2048"
+   x="215.57504"
+   id="text578"
+   style="font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="scale(1,-1)"><tspan
+     id="tspan580"
+     sodipodi:role="line"
+     x="261.81528 270.38303 279.8407 289.35876 297.92651 307.21829 311.32117 319.88892 330.64386 340.46356"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana">EXPERIENCE</tspan></text>
+
+
+
+
+</g><g
+   id="g4581"
+   transform="translate(0,-29.788266)"><g
+   id="g4513"><g
+     transform="matrix(1.97438,0,0,1.97438,467.35518,182.20997)"
+     id="g3868"><path
+       inkscape:connector-curvature="0"
+       id="path3870"
+       style="fill:#00b2e5;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 0,0 h 15.041 c 1.276,0 1.777,1.837 0.715,2.625 -5.651,4.2 -18.318,11.967 -34.699,11.967 H -33.985 C -17.604,14.592 -4.938,6.825 0.714,2.625 1.776,1.837 1.277,0 0,0" /></g><g
+     transform="matrix(1.97438,0,0,1.97438,362.28124,182.20997)"
+     id="g3872"><path
+       inkscape:connector-curvature="0"
+       id="path3874"
+       style="fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 0,0 h 4.576 10.467 4.575 33.601 c 1.277,0 1.776,1.837 0.714,2.625 -5.653,4.2 -18.319,11.967 -34.7,11.967 H -58.105 V 0 Z" /></g></g><text
+   transform="scale(1,-1)"
+   style="font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text3876"
+   x="261.81528"
+   y="-191.25311"><tspan
+     sodipodi:role="line"
+     id="tspan3878"
+     x="261.81528"
+     y="-191.25311"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana">LANGUAGES</tspan></text>
+
+
+
+
+</g><g
+   transform="translate(0,62.022772)"
    id="g4051"><g
    id="g4053"><g
      id="g4055"
@@ -2174,7 +2398,7 @@
        inkscape:connector-curvature="0" /></g><g
      id="g4059"
      transform="matrix(1.97438,0,0,1.97438,362.28124,182.20997)"><path
-       d="m 0,0 h 4.576 10.467 4.575 33.601 c 1.277,0 1.776,1.837 0.714,2.625 -5.653,4.2 -18.319,11.967 -34.7,11.967 h -77.338 l 0,-14.592 z"
+       d="m 0,0 h 4.576 10.467 4.575 33.601 c 1.277,0 1.776,1.837 0.714,2.625 -5.653,4.2 -18.319,11.967 -34.7,11.967 H -58.105 V 0 Z"
        style="fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="path4061"
        inkscape:connector-curvature="0" /></g></g><text
@@ -2186,174 +2410,10 @@
      y="-191.25311"
      x="261.81528"
      id="tspan4065"
-     sodipodi:role="line">CERTIFICATIONS/AWARDS</tspan></text>
-
-
-
-
-</g>
-<g
-   id="g786"><text
-   transform="scale(1,-1)"
-   style="font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none"
-   id="text4087"
-   x="247.45966"
-   y="-184.18307"><tspan
-     style="font-size:11px"
      sodipodi:role="line"
-     id="tspan4089"
-     x="247.45966"
-     y="-184.18307">2018     Chinese proficiency test : HSK 4 (218/300)</tspan></text>
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana">CERTIFICATIONS/AWARDS</tspan></text>
 
-<text
-   y="-169.27785"
-   x="247.45966"
-   id="text4097"
-   style="font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none"
-   transform="scale(1,-1)"><tspan
-     style="font-size:11px"
-     y="-169.27785"
-     x="247.45966"
-     id="tspan4099"
-     sodipodi:role="line">2016     Machine Learning course in Coursera (97.3%)</tspan></text>
 
-<text
-   y="-199.16618"
-   x="247.45966"
-   id="text2361"
-   style="font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none"
-   transform="scale(1,-1)"><tspan
-     y="-199.16618"
-     x="247.45966"
-     id="tspan2359"
-     sodipodi:role="line"
-     style="font-size:11px">2018     English proficiency test : IELTS  Band 6.5</tspan></text>
-</g>
-<g
-   id="g2426"
-   transform="translate(0,4.3957546)"><text
-     y="-63.368427"
-     x="253.0168"
-     id="text4102"
-     style="font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none"
-     transform="scale(1,-1)"><tspan
-       y="-63.368427"
-       x="253.0168"
-       id="tspan4104"
-       sodipodi:role="line">Mandarin Chinese</tspan></text>
-<text
-     transform="scale(1,-1)"
-     style="font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none"
-     id="text891"
-     x="361.56943"
-     y="-63.854755"><tspan
-       sodipodi:role="line"
-       id="tspan889"
-       x="361.56943"
-       y="-63.854755">HSK4 - score: 218/300</tspan></text>
-</g><g
-   id="g2420"
-   transform="translate(0,3.102164)"><g
-     transform="translate(0,-0.10677647)"
-     id="g703"><text
-   transform="scale(1,-1)"
-   style="font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none"
-   id="text4036"
-   x="253.19809"
-   y="-81.345009"><tspan
-     sodipodi:role="line"
-     id="tspan4038"
-     x="253.19809"
-     y="-81.345009">English</tspan></text>
 
-</g><text
-     style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994"
-     id="text891-9"
-     x="361.51083"
-     y="-80.792923"
-     transform="scale(1,-1)"><tspan
-       style="stroke-width:0.99999994"
-       sodipodi:role="line"
-       id="tspan889-0"
-       x="361.51083"
-       y="-80.792923">IELTS score: 6.5 (B2)</tspan></text>
-</g><g
-   id="g2406"
-   transform="translate(0,4.4407795)"><g
-     transform="translate(0,2.6848368e-6)"
-     id="g720"><text
-   transform="scale(1,-1)"
-   style="font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none"
-   id="text4044"
-   x="252.6107"
-   y="-112.10284"><tspan
-     sodipodi:role="line"
-     x="252.6107"
-     y="-112.10284"
-     id="tspan4046">Arabic</tspan></text>
 
-</g><text
-     transform="scale(1,-1)"
-     y="-111.97979"
-     x="361.56943"
-     id="text2375"
-     style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994"><tspan
-       y="-111.97979"
-       x="361.56943"
-       id="tspan2373"
-       sodipodi:role="line"
-       style="stroke-width:0.99999994">Native language - Excellent proficiency</tspan></text>
-</g><g
-   id="g2413"
-   transform="translate(0,3.1285923)"><g
-     transform="translate(0,0.5894928)"
-     id="g712"><text
-   transform="scale(1,-1)"
-   style="font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none"
-   id="text4040"
-   x="252.6107"
-   y="-96.723923"><tspan
-     sodipodi:role="line"
-     id="tspan4042"
-     x="252.6107"
-     y="-96.723923">French</tspan></text>
-
-</g><text
-     style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994"
-     id="text2389"
-     x="362.49521"
-     y="-97.190369"
-     transform="scale(1,-1)"><tspan
-       style="stroke-width:0.99999994"
-       sodipodi:role="line"
-       id="tspan2387"
-       x="362.49521"
-       y="-97.190369">Very good proficiency</tspan></text>
-</g>
-<g
-   id="g2438"
-   transform="translate(0,-27.138156)"><g
-     id="g2432"
-     transform="translate(0,-0.10677647)"><text
-   y="-81.345009"
-   x="253.19809"
-   id="text2430"
-   style="font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none"
-   transform="scale(1,-1)"><tspan
-     y="-81.345009"
-     x="253.19809"
-     id="tspan2428"
-     sodipodi:role="line">Russian</tspan></text>
-
-</g><text
-     transform="scale(1,-1)"
-     y="-80.792923"
-     x="361.51083"
-     id="text2436"
-     style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994"><tspan
-       y="-80.792923"
-       x="361.51083"
-       sodipodi:role="line"
-       style="stroke-width:0.99999994"
-       id="tspan2440">Basic knowledge</tspan></text>
 </g></g></svg>
