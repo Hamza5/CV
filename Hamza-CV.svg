@@ -232,9 +232,9 @@
      id="namedview4"
      showgrid="false"
      units="mm"
-     inkscape:zoom="1.23"
-     inkscape:cx="369.5122"
-     inkscape:cy="290.65041"
+     inkscape:zoom="2.46"
+     inkscape:cx="516.46341"
+     inkscape:cy="323.78049"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
@@ -1210,50 +1210,65 @@
 
 <text
    transform="scale(1,-1)"
-   style="font-variant:normal;font-weight:normal;font-stretch:normal;line-height:120%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#808184;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:120%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#808184;fill-opacity:1;fill-rule:nonzero;stroke:none"
    id="text582"
    x="247.37727"
-   y="-636.8775"><tspan
+   y="-649.64392"><tspan
      sodipodi:role="line"
      x="247.37727"
-     y="-636.8775"
+     y="-649.64392"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:120%;font-family:Verdana;-inkscape-font-specification:Verdana"
-     id="tspan615">Ph.D. student in Wuhan University of Technology</tspan><tspan
+     id="tspan16891">Master's degree in Artificial Intelligence from University of</tspan><tspan
      sodipodi:role="line"
      x="247.37727"
-     y="-622.47748"
+     y="-636.29596"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:120%;font-family:Verdana;-inkscape-font-specification:Verdana"
-     id="tspan66915">- WHUT (武汉理工大学). Continuing my study remotely from</tspan><tspan
+     id="tspan7139">Science and Technology Houari Boumediene.</tspan><tspan
      sodipodi:role="line"
      x="247.37727"
-     y="-607.95172"
+     y="-622.948"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:120%;font-family:Verdana;-inkscape-font-specification:Verdana"
-     id="tspan71377">Algeria since January 2020 due to the COVID-19 entrance</tspan><tspan
+     id="tspan7959">During my study and after my graduation, I released many</tspan><tspan
      sodipodi:role="line"
      x="247.37727"
-     y="-593.5517"
+     y="-609.60004"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:120%;font-family:Verdana;-inkscape-font-specification:Verdana"
-     id="tspan71379">restrictions imposed by the Chinese government on the </tspan><tspan
+     id="tspan9063">projects, from simple automation scripts to desktop and</tspan><tspan
      sodipodi:role="line"
      x="247.37727"
-     y="-579.15173"
+     y="-596.25208"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:120%;font-family:Verdana;-inkscape-font-specification:Verdana"
-     id="tspan74203">international students.</tspan><tspan
+     id="tspan11945">web apps (some are available publicly on my GitHub profile).</tspan><tspan
      sodipodi:role="line"
      x="247.37727"
-     y="-564.75171"
+     y="-582.90411"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:120%;font-family:Verdana;-inkscape-font-specification:Verdana"
-     id="tspan4790">Currently I am envolved in Web 3.0 and Decentralized App</tspan><tspan
+     id="tspan13239">In recent years, my main focus was on deep learning</tspan><tspan
      sodipodi:role="line"
      x="247.37727"
-     y="-550.35175"
+     y="-569.55615"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:120%;font-family:Verdana;-inkscape-font-specification:Verdana"
-     id="tspan5706">(DApp) devlopement using Flutter combined with some</tspan><tspan
+     id="tspan18476">technologies, applied in the natural language processing</tspan><tspan
      sodipodi:role="line"
      x="247.37727"
-     y="-535.95172"
+     y="-556.20819"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:120%;font-family:Verdana;-inkscape-font-specification:Verdana"
-     id="tspan8488">Blockchains and other Distributed Ledger Technologies (DLT)</tspan></text>
+     id="tspan21649">field.</tspan><tspan
+     sodipodi:role="line"
+     x="247.37727"
+     y="-542.86023"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:120%;font-family:Verdana;-inkscape-font-specification:Verdana"
+     id="tspan18478">Recently I am involved in Web 3.0 and Decentralized App</tspan><tspan
+     sodipodi:role="line"
+     x="247.37727"
+     y="-529.51227"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:120%;font-family:Verdana;-inkscape-font-specification:Verdana"
+     id="tspan17913">(DApp) development using Flutter combined with some</tspan><tspan
+     sodipodi:role="line"
+     x="247.37727"
+     y="-516.16431"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:120%;font-family:Verdana;-inkscape-font-specification:Verdana"
+     id="tspan20485">Blockchains and other Distributed Ledger Technologies (DLT).</tspan></text>
 
 
 
@@ -1386,13 +1401,13 @@
          sodipodi:role="line"
          x="57.125103"
          y="-541.27252"
-         id="tspan111853"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:120%;font-family:Verdana;-inkscape-font-specification:Verdana">Wuhan, Hubei, China</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:120%;font-family:Verdana;-inkscape-font-specification:Verdana"
+         id="tspan112965">Birkhadem, Algiers, Algeria</tspan><tspan
          sodipodi:role="line"
          x="57.125103"
          y="-526.8725"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:120%;font-family:Verdana;-inkscape-font-specification:Verdana"
-         id="tspan112965">Birkhadem, Algiers, Algeria</tspan><tspan
+         id="tspan761">Wuhan, Hubei, China</tspan><tspan
          sodipodi:role="line"
          x="57.125103"
          y="-519.51111"
@@ -1551,15 +1566,15 @@
    xml:space="preserve"><tspan
      x="20.914827"
      y="-437.61288"
-     id="tspan27308"><tspan
+     id="tspan24817"><tspan
        style="font-family:Verdana;-inkscape-font-specification:Verdana"
-       id="tspan27306">Python
+       id="tspan24815">Python
 </tspan></tspan><tspan
      x="20.914827"
      y="-423.0515"
-     id="tspan27312"><tspan
+     id="tspan24821"><tspan
        style="font-family:Verdana;-inkscape-font-specification:Verdana"
-       id="tspan27310">(+many libraries)</tspan></tspan></text>
+       id="tspan24819">(+many libraries)</tspan></tspan></text>
 
 
 
@@ -1900,7 +1915,7 @@
 
 <g
    id="g613"
-   transform="translate(0,-12.804878)"><g
+   transform="translate(0,-28.226851)"><g
      id="g609"
      transform="translate(0,36.224326)"><text
    y="-258.82275"
@@ -1964,41 +1979,43 @@
 
 <g
    id="g131991"
-   transform="translate(0,-6.097561)"><text
+   transform="translate(0,-13.61816)"><text
      transform="scale(1,-1)"
      style="font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none"
      id="text4087"
      x="247.45966"
-     y="-214.51105"><tspan
+     y="-212.37688"><tspan
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:Verdana;-inkscape-font-specification:Verdana"
        sodipodi:role="line"
        id="tspan4089"
        x="247.45966"
-       y="-214.51105">2018     Chinese proficiency test : HSK 4 (218/300)</tspan></text><text
-     y="-196.9095"
+       y="-212.37688">2018     Chinese proficiency test : HSK 4 (218/300)</tspan></text><text
+     y="-196.90947"
      x="247.45966"
      id="text4097"
      style="font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none"
      transform="scale(1,-1)"><tspan
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:Verdana;-inkscape-font-specification:Verdana"
-       y="-196.9095"
+       y="-196.90947"
        x="247.45966"
        id="tspan4099"
        sodipodi:role="line">2016     Machine Learning course in Coursera (97.3%)</tspan></text><text
-     y="-232.2254"
+     y="-227.95709"
      x="247.45966"
      id="text2361"
      style="font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none"
      transform="scale(1,-1)"><tspan
-       y="-232.2254"
+       y="-227.95709"
        x="247.45966"
        id="tspan2359"
        sodipodi:role="line"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:Verdana;-inkscape-font-specification:Verdana">2018     English proficiency test : IELTS  Band 6.5</tspan></text></g>
 
 <g
-   id="g131983"><g
-     id="g131943"><text
+   id="g13801"
+   transform="translate(0,1.8312542e-4)"><g
+     id="g131943"
+     transform="translate(0,-0.78442791)"><text
        y="-79.149696"
        x="253.0168"
        id="text4102"
@@ -2029,7 +2046,8 @@
          id="tspan4069"
          x="258.28571"
          y="-88.429939"> </tspan></text></g><g
-     id="g131935"><g
+     id="g131935"
+     transform="translate(0,-2.0024921)"><g
        transform="translate(0,16.850953)"
        id="g703"><text
    transform="scale(1,-1)"
@@ -2054,7 +2072,8 @@
          id="tspan889-0"
          x="385.68848"
          y="-97.750656">IELTS score: 6.5 (B2)</tspan></text></g><g
-     id="g131905"><g
+     id="g131905"
+     transform="translate(0,-4.8780716)"><g
        id="g720"
        transform="translate(0,22.697373)"><text
    transform="scale(1,-1)"
@@ -2079,7 +2098,8 @@
          id="tspan2373"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana;stroke-width:1">Native language</tspan></text></g><g
-     id="g131912"><g
+     id="g131912"
+     transform="translate(0,-3.4080546)"><g
        transform="translate(0,19.774163)"
        id="g712"><text
    transform="scale(1,-1)"
@@ -2140,9 +2160,9 @@
      x="536.44666"
      y="-504.30893"> </tspan></text><g
    id="g25841"
-   transform="translate(0,-14.02439)"><g
+   transform="translate(0,-30.790694)"><g
      id="g125243"
-     transform="translate(0,-19.20531)"><text
+     transform="translate(0,-22.457333)"><text
        y="-476.85941"
        x="332.18811"
        id="text486"
@@ -2164,7 +2184,7 @@
          x="247.45966"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana">2017-2018    Chinese language - HSK level 4 </tspan></text></g><g
      id="g125249"
-     transform="translate(0,-8.6536214)"><text
+     transform="translate(0,-10.279622)"><text
        y="-439.28513"
        x="331.6886"
        id="text496"
@@ -2186,7 +2206,7 @@
          x="247.45966"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana">2015-2017    Master's degree in Artificial intelligence</tspan></text></g><g
      id="g125255"
-     transform="translate(0,12.799198)"><text
+     transform="translate(0,12.79922)"><text
        y="-390.74521"
        x="331.6886"
        id="text506"
@@ -2208,17 +2228,7 @@
          x="247.45966"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana">2012-2015    Bachelor's degree in Computer Science</tspan></text></g><g
      id="g125313"
-     transform="translate(0,-14.322193)"><text
-       y="-499.06335"
-       x="332.18811"
-       id="text108031"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#808184;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       transform="scale(1,-1)"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:Verdana;-inkscape-font-specification:Verdana"
-         y="-499.06335"
-         x="332.18811"
-         id="tspan108029"
-         sodipodi:role="line">WHUT</tspan></text><text
+     transform="translate(0,-19.200238)"><text
        y="-512.04822"
        x="247.45966"
        id="text108035"
@@ -2228,7 +2238,7 @@
          id="tspan108033"
          sodipodi:role="line"
          x="247.45966"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana">2018-Now     Ph.D. student in NLP  </tspan></text></g></g><g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana">2018-Now     Freelance and personal projects </tspan></text></g></g><g
    id="g29299"><g
      id="g136897"
      transform="translate(15.83756,-25.264549)"><g
@@ -2254,17 +2264,17 @@
      xml:space="preserve"><tspan
        x="20.970526"
        y="-208.78778"
-       id="tspan27316"><tspan
+       id="tspan24825"><tspan
          style="font-family:Verdana;-inkscape-font-specification:Verdana"
-         id="tspan27314">CI/CD
+         id="tspan24823">CI/CD
 </tspan></tspan><tspan
        x="20.970526"
        y="-194.22636"
-       id="tspan27320"><tspan
+       id="tspan24829"><tspan
          style="font-family:Verdana;-inkscape-font-specification:Verdana"
-         id="tspan27318">(GitHub Actions)</tspan></tspan></text></g><g
+         id="tspan24827">(GitHub Actions)</tspan></tspan></text></g><g
    id="g6103"
-   transform="translate(0,27.961117)"><g
+   transform="translate(0,41.375756)"><g
    transform="matrix(1.97438,0,0,1.97438,-184.18055,-84.496417)"
    id="g594"><g
      clip-path="url(#clipPath598)"
@@ -2280,7 +2290,7 @@
          inkscape:connector-curvature="0"
          id="path608"
          style="fill:#274156;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         d="m 0,0 h 4.576 10.467 4.575 33.601 c 1.277,0 1.776,1.837 0.714,2.625 -5.653,4.201 -18.319,11.966 -34.7,11.966 h -77.338 l 0,-14.591 z" /></g></g></g><text
+         d="m 0,0 h 4.576 10.467 4.575 33.601 c 1.277,0 1.776,1.837 0.714,2.625 -5.653,4.201 -18.319,11.966 -34.7,11.966 H -58.105 V 0 Z" /></g></g></g><text
    transform="scale(1,-1)"
    style="font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
    id="text6330"
@@ -2297,7 +2307,7 @@
 
 </g><g
    id="g6156"
-   transform="translate(0,25.123542)"><g
+   transform="translate(0,3.766234)"><g
    transform="translate(11.77665)"
    id="g6365"><g
      id="g524"
@@ -2326,7 +2336,7 @@
 
 </g><g
    id="g4623"
-   transform="translate(0,85.017084)"><g
+   transform="translate(0,67.121401)"><g
    transform="matrix(1.97438,0,0,1.97438,-184.18055,-50.707859)"
    id="g562"><g
      clip-path="url(#clipPath566)"
@@ -2358,7 +2368,7 @@
 
 </g><g
    id="g4581"
-   transform="translate(0,-29.788266)"><g
+   transform="translate(0,-36.49482)"><g
    id="g4513"><g
      transform="matrix(1.97438,0,0,1.97438,467.35518,182.20997)"
      id="g3868"><path
@@ -2387,7 +2397,7 @@
 
 
 </g><g
-   transform="translate(0,62.022772)"
+   transform="translate(0,47.034095)"
    id="g4051"><g
    id="g4053"><g
      id="g4055"
