@@ -269,11 +269,11 @@
      units="mm"
      inkscape:zoom="1.63"
      inkscape:cx="412.26994"
-     inkscape:cy="265.33742"
+     inkscape:cy="216.25767"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g10"
+     inkscape:current-layer="g9322"
      showguides="false"
      inkscape:pagecheckerboard="1"
      inkscape:document-units="mm" /><g
@@ -1523,7 +1523,7 @@
        x="20.914827"
        y="-391.09085"
        id="tspan3791"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:120%;font-family:sans-serif;-inkscape-font-specification:sans-serif">(Scikit + TensorFlow)</tspan></text><g
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:120%;font-family:sans-serif;-inkscape-font-specification:sans-serif">(TensorFlow)</tspan></text><g
      id="g5697"
      transform="translate(12.588838,255.71454)"><path
        sodipodi:nodetypes="ccsscssc"
@@ -1564,15 +1564,15 @@
    xml:space="preserve"><tspan
      x="20.914827"
      y="-437.61288"
-     id="tspan91237"><tspan
+     id="tspan15750"><tspan
        style="font-family:sans-serif;-inkscape-font-specification:sans-serif"
-       id="tspan91235">Python
+       id="tspan15748">Python
 </tspan></tspan><tspan
      x="20.914827"
      y="-423.21289"
-     id="tspan91241"><tspan
+     id="tspan15754"><tspan
        style="font-family:sans-serif;-inkscape-font-specification:sans-serif"
-       id="tspan91239">(+many libraries)</tspan></tspan></text>
+       id="tspan15752">(+many libraries)</tspan></tspan></text>
 
 
 
@@ -2125,15 +2125,15 @@
      xml:space="preserve"><tspan
        x="20.970526"
        y="-208.78778"
-       id="tspan91245"><tspan
+       id="tspan15758"><tspan
          style="font-family:sans-serif;-inkscape-font-specification:sans-serif"
-         id="tspan91243">CI/CD
+         id="tspan15756">CI/CD
 </tspan></tspan><tspan
        x="20.970526"
        y="-194.38778"
-       id="tspan91249"><tspan
+       id="tspan15762"><tspan
          style="font-family:sans-serif;-inkscape-font-specification:sans-serif"
-         id="tspan91247">(GitHub Actions)</tspan></tspan></text></g><g
+         id="tspan15760">(GitHub Actions)</tspan></tspan></text></g><g
    id="g3529"
    transform="translate(-3.8135084,7.141891)"><g
      transform="translate(11.77665,177.83118)"
@@ -2291,7 +2291,7 @@
          y="-594.22394"
          x="317.86133"
          id="tspan490"
-         sodipodi:role="line">WHUT</tspan></text><text
+         sodipodi:role="line">WHUT - Wuhan, China</tspan></text><text
        y="-607.2088"
        x="247.45966"
        id="text492"
@@ -2324,7 +2324,7 @@
          y="-621.70514"
          x="317.49374"
          id="tspan72339"
-         sodipodi:role="line">WHUT</tspan></text><text
+         sodipodi:role="line">WHUT - Wuhan, China</tspan></text><text
        y="-633.83588"
        x="247.45966"
        id="text108035"
@@ -2357,7 +2357,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:sans-serif"
          y="-566.80579"
          x="317.86133"
-         sodipodi:role="line">USTHB</tspan></text><text
+         sodipodi:role="line">USTHB - Algiers, Algeria</tspan></text><text
        y="-579.6676"
        x="247.45966"
        id="text502"
@@ -2390,7 +2390,7 @@
          id="tspan6046"
          y="-539.32458"
          x="317.86133"
-         sodipodi:role="line">USTHB</tspan></text><text
+         sodipodi:role="line">USTHB - Algiers, Algeria</tspan></text><text
        y="-552.30945"
        x="247.45966"
        id="text512"
@@ -2469,7 +2469,7 @@
            y="-443.65594"
            x="288.06458"
            id="tspan95339"
-           sodipodi:role="line">Data Impact - Algiers</tspan></text><text
+           sodipodi:role="line">Data Impact - Algiers, Algeria</tspan></text><text
          y="-456.68887"
          x="247.45966"
          id="text95345"
@@ -2502,7 +2502,7 @@
            y="-414.09821"
            x="288.06458"
            id="tspan540"
-           sodipodi:role="line">Al Baraka Bank - Algiers </tspan></text><text
+           sodipodi:role="line">Al Baraka Bank - Algiers, Algeria </tspan></text><text
          y="-427.13113"
          x="247.45966"
          id="text542"
