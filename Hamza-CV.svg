@@ -269,11 +269,11 @@
      units="mm"
      inkscape:zoom="1.63"
      inkscape:cx="385.58282"
-     inkscape:cy="624.23313"
+     inkscape:cy="476.99387"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g12215"
+     inkscape:current-layer="g115641"
      showguides="false"
      inkscape:pagecheckerboard="1"
      inkscape:document-units="mm" /><g
@@ -1358,17 +1358,17 @@
        style="font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#808184;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text660"
        x="57.125103"
-       y="-567.48267"><tspan
+       y="-560.36096"><tspan
          sodipodi:role="line"
          x="57.125103"
-         y="-567.48267"
+         y="-560.36096"
          id="tspan5332"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:120%;font-family:sans-serif;-inkscape-font-specification:sans-serif">+213 6 59 1 84 69</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:120%;font-family:sans-serif;-inkscape-font-specification:sans-serif">+213 6 59 41 84 69</tspan><tspan
          sodipodi:role="line"
          x="57.125103"
-         y="-553.08264"
+         y="-553.16095"
          id="tspan5336"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:120%;font-family:sans-serif;-inkscape-font-specification:sans-serif">+86 139 7165 4983</tspan></text></g><g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:120%;font-family:sans-serif;-inkscape-font-specification:sans-serif" /></text></g><g
      id="g115221"
      transform="translate(-5.9210526)"><g
        id="g3883"
@@ -1401,20 +1401,15 @@
        style="font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#808184;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text111855"
        x="57.125103"
-       y="-541.27252"><tspan
+       y="-534.27185"><tspan
          sodipodi:role="line"
          x="57.125103"
-         y="-541.27252"
+         y="-534.27185"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:120%;font-family:sans-serif;-inkscape-font-specification:sans-serif"
-         id="tspan112965">Algiers, Algeria</tspan><tspan
+         id="tspan761">Bab Ezzouar, Algiers, Algeria</tspan><tspan
          sodipodi:role="line"
          x="57.125103"
-         y="-526.8725"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:120%;font-family:sans-serif;-inkscape-font-specification:sans-serif"
-         id="tspan761">Dalian, Liaoning, China</tspan><tspan
-         sodipodi:role="line"
-         x="57.125103"
-         y="-519.67255"
+         y="-527.07184"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:120%;font-family:sans-serif;-inkscape-font-specification:sans-serif"
          id="tspan112079" /></text><g
        transform="translate(-15.025381,-3.4494629)"
@@ -1564,15 +1559,15 @@
    xml:space="preserve"><tspan
      x="20.914827"
      y="-437.61288"
-     id="tspan8388"><tspan
+     id="tspan6645"><tspan
        style="font-family:sans-serif;-inkscape-font-specification:sans-serif"
-       id="tspan8386">Python
+       id="tspan6643">Python
 </tspan></tspan><tspan
      x="20.914827"
      y="-423.21289"
-     id="tspan8392"><tspan
+     id="tspan6649"><tspan
        style="font-family:sans-serif;-inkscape-font-specification:sans-serif"
-       id="tspan8390">(+many libraries)</tspan></tspan></text>
+       id="tspan6647">(+many libraries)</tspan></tspan></text>
 
 
 
@@ -2131,15 +2126,15 @@
      xml:space="preserve"><tspan
        x="20.970526"
        y="-208.78778"
-       id="tspan8396"><tspan
+       id="tspan6653"><tspan
          style="font-family:sans-serif;-inkscape-font-specification:sans-serif"
-         id="tspan8394">CI/CD
+         id="tspan6651">CI/CD
 </tspan></tspan><tspan
        x="20.970526"
        y="-194.38778"
-       id="tspan8400"><tspan
+       id="tspan6657"><tspan
          style="font-family:sans-serif;-inkscape-font-specification:sans-serif"
-         id="tspan8398">(GitHub Actions)</tspan></tspan></text></g><g
+         id="tspan6655">(GitHub Actions)</tspan></tspan></text></g><g
    id="g3529"
    transform="translate(-3.8135084,7.141891)"><g
      transform="translate(11.77665,177.83118)"
