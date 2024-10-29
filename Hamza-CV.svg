@@ -269,11 +269,11 @@
      units="mm"
      inkscape:zoom="1.63"
      inkscape:cx="385.58282"
-     inkscape:cy="476.99387"
+     inkscape:cy="722.39264"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g115641"
+     inkscape:current-layer="g641"
      showguides="false"
      inkscape:pagecheckerboard="1"
      inkscape:document-units="mm" /><g
@@ -1559,15 +1559,15 @@
    xml:space="preserve"><tspan
      x="20.914827"
      y="-437.61288"
-     id="tspan6645"><tspan
+     id="tspan1874"><tspan
        style="font-family:sans-serif;-inkscape-font-specification:sans-serif"
-       id="tspan6643">Python
+       id="tspan1872">Python
 </tspan></tspan><tspan
      x="20.914827"
      y="-423.21289"
-     id="tspan6649"><tspan
+     id="tspan1878"><tspan
        style="font-family:sans-serif;-inkscape-font-specification:sans-serif"
-       id="tspan6647">(+many libraries)</tspan></tspan></text>
+       id="tspan1876">(+many libraries)</tspan></tspan></text>
 
 
 
@@ -1851,7 +1851,7 @@
      x="20.914827"
      y="-423.64832"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif"
-     id="tspan5404">(Node.js, Next.js)</tspan></text>
+     id="tspan5404">(Node.js, Next.js/React)</tspan></text>
 
 
 
@@ -2126,15 +2126,15 @@
      xml:space="preserve"><tspan
        x="20.970526"
        y="-208.78778"
-       id="tspan6653"><tspan
+       id="tspan1882"><tspan
          style="font-family:sans-serif;-inkscape-font-specification:sans-serif"
-         id="tspan6651">CI/CD
+         id="tspan1880">CI/CD
 </tspan></tspan><tspan
        x="20.970526"
        y="-194.38778"
-       id="tspan6657"><tspan
+       id="tspan1886"><tspan
          style="font-family:sans-serif;-inkscape-font-specification:sans-serif"
-         id="tspan6655">(GitHub Actions)</tspan></tspan></text></g><g
+         id="tspan1884">(GitHub Actions)</tspan></tspan></text></g><g
    id="g3529"
    transform="translate(-3.8135084,7.141891)"><g
      transform="translate(11.77665,177.83118)"
@@ -2627,7 +2627,7 @@
      x="261.81528"
      id="tspan637"
      sodipodi:role="line"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif">Publications</tspan></text>
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif">PUBLICATIONS</tspan></text>
 
 
 
